@@ -1,0 +1,6 @@
+<map id="local_planner::LocalPlanner::prune" name="local_planner::LocalPlanner::prune">
+<area shape="rect" id="node1" title="Prune the path, removing the waypoints that the robot has already passed and distant waypoints." alt="" coords="5,23,205,65"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="523,5,617,32"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#ae94b70df291d8464ddf5c37d64f4bf40" title="Find the first element in iterator that is greater integrated distance than compared value." alt="" coords="253,31,475,57"/>
+<area shape="rect" id="node4" href="$namespacehelper.html#ad7625b199a37802bc66ee636945ea7ff" title="Find the first element in iterator with the minimum calculated value." alt="" coords="281,81,447,108"/>
+</map>

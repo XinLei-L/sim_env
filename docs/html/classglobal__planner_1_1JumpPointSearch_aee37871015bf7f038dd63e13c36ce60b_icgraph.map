@@ -1,0 +1,4 @@
+<map id="global_planner::JumpPointSearch::jump" name="global_planner::JumpPointSearch::jump">
+<area shape="rect" id="node1" title="Calculate jump node recursively." alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1JumpPointSearch.html#ad21aafd5a95ddb7c66bec8e665c8d4a1" title="Jump Point Search(JPS) implementation." alt="" coords="5,5,197,47"/>
+</map>

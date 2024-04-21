@@ -1,0 +1,6 @@
+<map id="sample_planner::SamplePlanner" name="sample_planner::SamplePlanner">
+<area shape="rect" id="node1" title=" " alt="" coords="167,527,399,1000"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,196,151,273"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1GlobalPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="175,5,392,464"/>
+<area shape="rect" id="node4" title=" " alt="" coords="417,196,475,273"/>
+</map>

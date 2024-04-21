@@ -1,0 +1,8 @@
+<map id="dwa_planner::DWAPlanner::computeVelocityCommands" name="dwa_planner::DWAPlanner::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="5,86,220,127"/>
+<area shape="rect" id="node2" href="$classdwa__planner_1_1DWA.html#a5a850a29c2efed907ae97f19f2d25e0a" title="Check if a trajectory is legal for a position/velocity pair." alt="" coords="268,5,524,32"/>
+<area shape="rect" id="node3" href="$classdwa__planner_1_1DWAPlanner.html#ab8bb80094769238c00a092b00054027a" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="275,57,517,98"/>
+<area shape="rect" id="node5" href="$classdwa__planner_1_1DWAPlanner.html#a420f49c22e6e1296a0d3423822c23d0c" title=" " alt="" coords="572,115,767,157"/>
+<area shape="rect" id="node6" href="$classdwa__planner_1_1DWAPlanner.html#a3d8443e4d00a408ad7103a964b7002de" title=" " alt="" coords="299,174,493,215"/>
+<area shape="rect" id="node4" href="$classdwa__planner_1_1DWAPlanner.html#a2367eebffec8c10ba53a06500fcefc4a" title=" " alt="" coords="572,50,767,91"/>
+</map>

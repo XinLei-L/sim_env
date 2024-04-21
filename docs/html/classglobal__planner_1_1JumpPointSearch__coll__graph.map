@@ -1,0 +1,5 @@
+<map id="global_planner::JumpPointSearch" name="global_planner::JumpPointSearch">
+<area shape="rect" id="node1" title="lass for objects that plan using the Jump Point Search(JPS) algorithm" alt="" coords="115,541,307,677"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,5,223,464"/>
+<area shape="rect" id="node3" href="$classNode.html" title="Basic Node class." alt="" coords="247,123,371,347"/>
+</map>

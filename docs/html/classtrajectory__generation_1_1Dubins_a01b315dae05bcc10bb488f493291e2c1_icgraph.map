@@ -1,0 +1,4 @@
+<map id="trajectory_generation::Dubins::setMaxCurv" name="trajectory_generation::Dubins::setMaxCurv">
+<area shape="rect" id="node1" title="Configure the maximum curvature." alt="" coords="257,5,420,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1HybridAStar.html#a3eba820300845e4c585c23784c805c73" title="Construct a new Hybrid A* object." alt="" coords="5,5,209,47"/>
+</map>

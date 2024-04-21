@@ -1,0 +1,4 @@
+<map id="global_planner::LPAStar::getState" name="global_planner::LPAStar::getState">
+<area shape="rect" id="node1" title="Get the closest Node of the path to current state." alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1LPAStar.html#a0fed8d7653127c77757ca752d4d0429d" title="LPA* implementation." alt="" coords="5,5,181,47"/>
+</map>

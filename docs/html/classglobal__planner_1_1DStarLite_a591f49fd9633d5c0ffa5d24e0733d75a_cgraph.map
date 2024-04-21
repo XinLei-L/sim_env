@@ -1,0 +1,8 @@
+<map id="global_planner::DStarLite::updateVertex" name="global_planner::DStarLite::updateVertex">
+<area shape="rect" id="node1" title="Update vertex u." alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStarLite.html#a1a90b4b70616cfdd987723667d250176" title="Calculate the key of s." alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1DStarLite.html#abca40b6286ae1deaf404075b7fcda8da" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="240,71,427,112"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1DStarLite.html#a1c961a3d2f0902407e6a6749e201d1a7" title="Get neighbour LNodePtrs of nodePtr." alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1DStarLite.html#ae5018530b3384bd8da3607d1c4d4e05b" title="Get heuristics between n1 and n2." alt="" coords="475,5,661,47"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1DStarLite.html#a7d06b94ed04a2bdae715a42662299e23" title="Check if there is collision between n1 and n2." alt="" coords="475,103,661,144"/>
+</map>

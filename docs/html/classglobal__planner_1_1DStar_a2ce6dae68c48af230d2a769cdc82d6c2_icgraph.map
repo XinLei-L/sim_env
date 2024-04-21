@@ -1,0 +1,4 @@
+<map id="global_planner::DStar::extractPath" name="global_planner::DStar::extractPath">
+<area shape="rect" id="node1" title="Extract path for map." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStar.html#a4920a293da9913f6a567fb3f7802713e" title="D* implementation." alt="" coords="5,5,168,47"/>
+</map>

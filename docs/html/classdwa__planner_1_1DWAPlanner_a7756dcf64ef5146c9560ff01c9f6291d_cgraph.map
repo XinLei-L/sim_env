@@ -1,0 +1,4 @@
+<map id="dwa_planner::DWAPlanner::setPlan" name="dwa_planner::DWAPlanner::setPlan">
+<area shape="rect" id="node1" title="Set the plan that the controller is following." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$classdwa__planner_1_1DWAPlanner.html#a2367eebffec8c10ba53a06500fcefc4a" title=" " alt="" coords="248,5,443,47"/>
+</map>

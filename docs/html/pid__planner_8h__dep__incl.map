@@ -1,0 +1,4 @@
+<map id="src/core/local_planner/pid_planner/include/pid_planner.h" name="src/core/local_planner/pid_planner/include/pid_planner.h">
+<area shape="rect" id="node1" title=": Contains the Proportional–Integral–Derivative (PID) controller local planner class" alt="" coords="33,5,210,61"/>
+<area shape="rect" id="node2" href="$pid__planner_8cpp.html" title=": Contains the Proportional–Integral–Derivative (PID) controller local planner class" alt="" coords="5,109,237,151"/>
+</map>

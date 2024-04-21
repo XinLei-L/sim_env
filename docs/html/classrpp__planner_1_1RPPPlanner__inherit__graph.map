@@ -1,0 +1,5 @@
+<map id="rpp_planner::RPPPlanner" name="rpp_planner::RPPPlanner">
+<area shape="rect" id="node1" title="A class implementing a local planner using the RPP." alt="" coords="105,805,336,1235"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,343,209,420"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html" title=" " alt="" coords="234,5,434,757"/>
+</map>

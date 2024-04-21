@@ -1,0 +1,5 @@
+<map id="src/core/global_planner/sample_planner/include/informed_rrt.h" name="src/core/global_planner/sample_planner/include/informed_rrt.h">
+<area shape="rect" id="node1" title=": Contains the informed RRT* planner class" alt="" coords="140,5,321,61"/>
+<area shape="rect" id="node2" href="$informed__rrt_8cpp.html" title=": Contains the informed RRT* planner class" alt="" coords="5,109,221,165"/>
+<area shape="rect" id="node3" href="$sample__planner_8cpp.html" title=": Contains the sample planner ROS wrapper class" alt="" coords="245,109,451,165"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="trajectory_generation::BSpline::generation" name="trajectory_generation::BSpline::generation">
+<area shape="rect" id="node1" title="Generate the path." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1BSpline.html#aa0665ddb47a09c738957564deff59ed0" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="216,5,389,47"/>
+</map>

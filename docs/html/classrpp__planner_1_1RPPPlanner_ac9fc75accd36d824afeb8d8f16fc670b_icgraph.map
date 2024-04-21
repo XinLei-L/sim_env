@@ -1,0 +1,4 @@
+<map id="rpp_planner::RPPPlanner::_applyCurvatureConstraint" name="rpp_planner::RPPPlanner::_applyCurvatureConstraint">
+<area shape="rect" id="node1" title="Applying curvature constraints to regularize the speed of robot turning." alt="" coords="268,5,472,47"/>
+<area shape="rect" id="node2" href="$classrpp__planner_1_1RPPPlanner.html#ad6d14b7e6db8c7cadd5ed72a9428ec0f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

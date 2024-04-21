@@ -1,0 +1,5 @@
+<map id="trajectory_generation::PolyTrajectory::size" name="trajectory_generation::PolyTrajectory::size">
+<area shape="rect" id="node1" title="Calculate the size of trajectory." alt="" coords="436,5,599,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1PolyTrajectory.html#a21ea590ad53f9fe4899670020e7a8885" title="Convert the trajectory to path points." alt="" coords="216,5,388,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Polynomial.html#a05d5f4ece731542e16be21f830220f63" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

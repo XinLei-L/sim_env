@@ -1,0 +1,8 @@
+<map id="global_planner::AStar::plan" name="global_planner::AStar::plan">
+<area shape="rect" id="node1" title="A* implementation." alt="" coords="5,89,167,131"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#a29e3e589f3f3c74c6f6b29548ff1d31f" title="Convert closed list to path." alt="" coords="215,5,432,47"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="276,71,371,98"/>
+<area shape="rect" id="node4" href="$classNode.html#abfad161e1ca99c634a3a63a999500d3f" title="Get permissible motion." alt="" coords="258,122,389,149"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="215,173,432,215"/>
+<area shape="rect" id="node5" href="$classNode.html#a36f435f304ee0979f38892ba34b39381" title="Constructor for Node class." alt="" coords="480,122,579,149"/>
+</map>

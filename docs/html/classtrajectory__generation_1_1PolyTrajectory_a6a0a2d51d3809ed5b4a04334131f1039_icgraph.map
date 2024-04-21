@@ -1,0 +1,6 @@
+<map id="trajectory_generation::PolyTrajectory::clear" name="trajectory_generation::PolyTrajectory::clear">
+<area shape="rect" id="node1" title="Clear the Polynomial trajectory." alt="" coords="487,39,649,80"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Polynomial.html#a4d5abd2e121ce5dbee101dfed1f664e8" title="Generate a valid trajectory from start state to goal state." alt="" coords="237,5,418,47"/>
+<area shape="rect" id="node4" href="$classtrajectory__generation_1_1PolyTrajectory.html#a87a273b80af33a0492be584dda08ba18" title="Construct a new Polynomial trajectory object." alt="" coords="216,71,439,112"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Polynomial.html#a05d5f4ece731542e16be21f830220f63" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="global_planner::RRT::_checkGoal" name="global_planner::RRT::_checkGoal">
+<area shape="rect" id="node1" title="Check if goal is reachable from current node." alt="" coords="5,53,157,94"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1RRT.html#a11476392ffbfa48a1bb151a660f1404f" title="Check if there is any obstacle between the 2 nodes." alt="" coords="205,53,376,94"/>
+<area shape="rect" id="node4" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="485,5,580,32"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="424,111,641,153"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="479,60,586,87"/>
+</map>

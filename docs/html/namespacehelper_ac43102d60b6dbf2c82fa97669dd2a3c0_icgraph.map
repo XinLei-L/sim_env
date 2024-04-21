@@ -1,0 +1,35 @@
+<map id="helper::angle" name="helper::angle">
+<area shape="rect" id="node1" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="779,495,885,522"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1RRTStar.html#a4a6af7f69799f71dd5a921c65e7384b6" title="Regular the new node by the nearest node in the sample list." alt="" coords="286,71,465,112"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1RRT.html#a2a96f1ca4463b7c1e9e2a08f099aa399" title="Regular the sample node by the nearest node in the sample list." alt="" coords="299,305,451,347"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1RRTConnect.html#a72a44b718cff9519f1319999aff91a07" title="RRT implementation." alt="" coords="11,305,215,347"/>
+<area shape="rect" id="node8" href="$classglobal__planner_1_1RRT.html#a11476392ffbfa48a1bb151a660f1404f" title="Check if there is any obstacle between the 2 nodes." alt="" coords="545,245,716,287"/>
+<area shape="rect" id="node10" href="$classglobal__planner_1_1InformedRRT.html#ab8566513c9d67b8602890763bcfa9ffe" title="Sample in ellipse." alt="" coords="538,37,723,79"/>
+<area shape="rect" id="node12" href="$classglobal__planner_1_1ACO.html#ac25e5d7f6192a98d52a608e199cf5d76" title="Generate n ants with pointNum_ positions each within the map range." alt="" coords="553,423,708,464"/>
+<area shape="rect" id="node15" href="$classglobal__planner_1_1GA.html#ae4af84e77e71343f0cd4178edc89cdc6" title="Generate n genets with pointNum_ positions each within the map range." alt="" coords="558,488,703,529"/>
+<area shape="rect" id="node17" href="$classglobal__planner_1_1PSO.html#a15f6b9aa375f012321d949455d6f3416" title="Generate n particles with pointNum_ positions each within the map range." alt="" coords="555,553,707,595"/>
+<area shape="rect" id="node19" href="$classlocal__planner_1_1LocalPlanner.html#a0ab04fa2f2ab7785f2f2dde338d3bfe3" title="Regularize angle to [&#45;pi, pi]." alt="" coords="531,713,731,755"/>
+<area shape="rect" id="node28" href="$classtrajectory__generation_1_1Bezier.html#a6c722371b0994d833345f63794b8c9bd" title="Running trajectory generation." alt="" coords="549,779,712,820"/>
+<area shape="rect" id="node29" href="$classtrajectory__generation_1_1Dubins.html#aa4a2750726aef400d951a00bc772f61b" title="Running trajectory generation." alt="" coords="549,844,712,885"/>
+<area shape="rect" id="node32" href="$classtrajectory__generation_1_1ReedsShepp.html#a11230dc4aaa5c93a9f2b4f89cac4f185" title="Running trajectory generation." alt="" coords="549,909,712,951"/>
+<area shape="rect" id="node33" href="$classtrajectory__generation_1_1Polynomial.html#a0194c27742b58e08610066e8b38fac47" title="Running trajectory generation." alt="" coords="549,975,712,1016"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1RRTStar.html#a8b9829fc54384c347278be8afa713464" title="RRT implementation." alt="" coords="23,145,202,187"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1InformedRRT.html#a4986b3f83e89e1e89141f74c956ad5b6" title="RRT implementation." alt="" coords="20,71,205,112"/>
+<area shape="rect" id="node7" href="$classglobal__planner_1_1RRT.html#abd81426595502487dbad4f5907ae394d" title="RRT implementation." alt="" coords="37,229,189,271"/>
+<area shape="rect" id="node9" href="$classglobal__planner_1_1RRT.html#a43abad0c7d7552fcd4135cf920897b18" title="Check if goal is reachable from current node." alt="" coords="299,188,451,229"/>
+<area shape="rect" id="node11" href="$classglobal__planner_1_1InformedRRT.html#a679f5cbc1ed9527f2368d120ac0b2013" title="Generates a random node." alt="" coords="271,5,479,47"/>
+<area shape="rect" id="node13" href="$classglobal__planner_1_1ACO.html#af83dfb3448726b6b2f08e34d60f51046" title=" " alt="" coords="298,423,453,464"/>
+<area shape="rect" id="node14" href="$classglobal__planner_1_1ACO.html#a0161e74ce746842a9652cffc3521f6ad" title="ACO implementation." alt="" coords="35,423,190,464"/>
+<area shape="rect" id="node16" href="$classglobal__planner_1_1GA.html#a8749abdf8d2dff58c0338b2c47a99d09" title="GA implementation." alt="" coords="303,488,448,529"/>
+<area shape="rect" id="node18" href="$classglobal__planner_1_1PSO.html#a3b8dd1af1d84ed7672f6bab5576136e8" title="PSO implementation." alt="" coords="299,553,451,595"/>
+<area shape="rect" id="node20" href="$classlqr__planner_1_1LQRPlanner.html#a5b5ec439b5fee2aa0e271d3060597dc5" title="Execute LQR control process." alt="" coords="286,684,465,725"/>
+<area shape="rect" id="node21" href="$classlqr__planner_1_1LQRPlanner.html#ad900e94f0cf26f61af3d3114a8ab8c4a" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,713,220,755"/>
+<area shape="rect" id="node22" href="$classmpc__planner_1_1MPCPlanner.html#aa9d2bd20d2deadc0687cc132003f18d0" title="Execute MPC control process." alt="" coords="279,801,471,843"/>
+<area shape="rect" id="node23" href="$classmpc__planner_1_1MPCPlanner.html#a03236df0d48b7b6e1f26572d1ac02d27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,831,220,872"/>
+<area shape="rect" id="node24" href="$classorca__planner_1_1OrcaPlanner.html#a740fbdee26ce8c61931bb3d5c698f3db" title=" " alt="" coords="268,919,483,960"/>
+<area shape="rect" id="node25" href="$classrpp__planner_1_1RPPPlanner.html#ad6d14b7e6db8c7cadd5ed72a9428ec0f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,984,483,1025"/>
+<area shape="rect" id="node26" href="$classpid__planner_1_1PIDPlanner.html#a4b0a4d5eb98b86855de05aed0c68aa8f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,1049,483,1091"/>
+<area shape="rect" id="node27" href="$classapf__planner_1_1APFPlanner.html#a697d369ed17d347523686588d36b0531" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,619,483,660"/>
+<area shape="rect" id="node30" href="$classglobal__planner_1_1HybridAStar.html#a48c867b9689c097dac88807e1d691a8c" title="Try using Dubins curves to connect the start and goal." alt="" coords="273,1115,477,1156"/>
+<area shape="rect" id="node31" href="$classglobal__planner_1_1HybridAStar.html#af2b35575b0ff2bf8018ddfa504d742d2" title=" " alt="" coords="11,1115,215,1156"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="helper::firstIntegratedDistance" name="helper::firstIntegratedDistance">
+<area shape="rect" id="node1" title="Find the first element in iterator that is greater integrated distance than compared value." alt="" coords="5,5,227,32"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="275,5,369,32"/>
+</map>

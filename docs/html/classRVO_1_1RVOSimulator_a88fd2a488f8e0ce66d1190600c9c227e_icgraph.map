@@ -1,0 +1,8 @@
+<map id="RVO::RVOSimulator::setAgentVelocity" name="RVO::RVOSimulator::setAgentVelocity">
+<area shape="rect" id="node1" title="Sets the two&#45;dimensional linear velocity of a specified agent." alt="" coords="751,39,908,80"/>
+<area shape="rect" id="node2" href="$classorca__planner_1_1OrcaPlanner.html#ae9a9283f8b9cc2e9f450950c18cb0bdc" title=" " alt="" coords="509,5,703,47"/>
+<area shape="rect" id="node5" href="$classorca__planner_1_1OrcaPlanner.html#a7daa1472ba5a72c013a7c972a4b9cb2b" title=" " alt="" coords="509,71,703,112"/>
+<area shape="rect" id="node3" href="$classorca__planner_1_1OrcaPlanner.html#acf130f8e0face048678a8bc91b72581e" title=" " alt="" coords="257,5,451,47"/>
+<area shape="rect" id="node4" href="$classorca__planner_1_1OrcaPlanner.html#a039c5c45282725ba7d4e16d5b334ba69" title=" " alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node6" href="$classorca__planner_1_1OrcaPlanner.html#a740fbdee26ce8c61931bb3d5c698f3db" title=" " alt="" coords="247,71,461,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DynamicVoronoi::isVoronoi" name="DynamicVoronoi::isVoronoi">
+<area shape="rect" id="node1" title="returns whether the specified cell is part of the (pruned) Voronoi graph" alt="" coords="279,42,477,69"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1VoronoiPlanner.html#aa491164863f3b012946f31823cd162a6" title=" " alt="" coords="5,5,231,47"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a8da1edbbb4f8ce37a67852e8be20d13c" title="write the current distance map and voronoi diagram as ppm file" alt="" coords="20,71,216,98"/>
+</map>

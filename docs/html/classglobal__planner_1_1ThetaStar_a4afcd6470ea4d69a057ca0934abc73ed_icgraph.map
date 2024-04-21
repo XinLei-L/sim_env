@@ -1,0 +1,7 @@
+<map id="global_planner::ThetaStar::_lineOfSight" name="global_planner::ThetaStar::_lineOfSight">
+<area shape="rect" id="node1" title="Bresenham algorithm to check if there is any obstacle between parent and child." alt="" coords="488,39,677,80"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1LazyThetaStar.html#a6474c7c4f4d249f3ea8eca23e7618a0c" title="check if the parent of vertex need to be updated. if so, update it" alt="" coords="247,5,440,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1ThetaStar.html#a94858112ddcc6c92a1ea02b6db79520e" title="update the g value of child node" alt="" coords="249,71,438,112"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1LazyThetaStar.html#acd2b82933cdb15fd12e428c40ae62f01" title="Lazy Theta* implementation." alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1ThetaStar.html#a42bfa4ce66ec7125b52cb6a076140b46" title="Theta* implementation." alt="" coords="7,71,197,112"/>
+</map>

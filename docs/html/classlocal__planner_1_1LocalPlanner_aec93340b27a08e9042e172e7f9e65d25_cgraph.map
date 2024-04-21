@@ -1,0 +1,4 @@
+<map id="local_planner::LocalPlanner::shouldRotateToGoal" name="local_planner::LocalPlanner::shouldRotateToGoal">
+<area shape="rect" id="node1" title="Whether to reach the target pose through rotation operation." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="253,13,348,39"/>
+</map>

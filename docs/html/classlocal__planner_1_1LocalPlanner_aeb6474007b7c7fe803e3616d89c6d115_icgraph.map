@@ -1,0 +1,11 @@
+<map id="local_planner::LocalPlanner::setSize" name="local_planner::LocalPlanner::setSize">
+<area shape="rect" id="node1" title="Set or reset costmap size." alt="" coords="485,104,685,145"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#acb371ea2a05a107cc9bb5f5a59d588a4" title="Initialization of the local planner." alt="" coords="252,5,431,47"/>
+<area shape="rect" id="node4" href="$classrpp__planner_1_1RPPPlanner.html#adf1df331f69d256f6727e16fd0705c51" title="Initialization of the local planner." alt="" coords="251,71,432,112"/>
+<area shape="rect" id="node6" href="$classmpc__planner_1_1MPCPlanner.html#a3afa4dcfa66dc44d473deeabc2f7df36" title="Initialization of the local planner." alt="" coords="245,136,437,177"/>
+<area shape="rect" id="node8" href="$classapf__planner_1_1APFPlanner.html#a6b30ae771a81eb40a6d1461d550723cb" title="Initialization of the local planner." alt="" coords="251,201,432,243"/>
+<area shape="rect" id="node3" href="$classlqr__planner_1_1LQRPlanner.html#aba15d8df88280c237edbc8fa69416337" title="Construct a new LQR planner object." alt="" coords="12,5,191,47"/>
+<area shape="rect" id="node5" href="$classrpp__planner_1_1RPPPlanner.html#a36d4ad6ca76c39f3986e800ebac95de1" title="Construct a new RPP planner object." alt="" coords="11,71,192,112"/>
+<area shape="rect" id="node7" href="$classmpc__planner_1_1MPCPlanner.html#a285975dda7cf70c3c413abfd089d1d91" title="Construct a new MPC planner object." alt="" coords="5,136,197,177"/>
+<area shape="rect" id="node9" href="$classapf__planner_1_1APFPlanner.html#a11d5b76b98a76e25c9f70bd582f88f1e" title="Construct a new APFPlanner object." alt="" coords="11,201,192,243"/>
+</map>

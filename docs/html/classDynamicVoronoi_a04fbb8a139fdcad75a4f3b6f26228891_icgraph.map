@@ -1,0 +1,11 @@
+<map id="DynamicVoronoi::isOccupied" name="DynamicVoronoi::isOccupied">
+<area shape="rect" id="node1" title="checks whether the specficied location is occupied" alt="" coords="569,121,779,148"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#ab5a8ebf12a256310e43c3f91b5f84e14" title=" " alt="" coords="292,55,505,97"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a1597506b8c427486884c2b2ec3492cdd" title="update distance map and Voronoi diagram to reflect the changes" alt="" coords="25,5,208,32"/>
+<area shape="rect" id="node4" href="$classDynamicVoronoi.html#ae4650e19a4754f476508dafb08ff8fed" title="Initialization with a given binary map (false==free, true==occupied)" alt="" coords="5,228,228,255"/>
+<area shape="rect" id="node5" href="$classDynamicVoronoi.html#a5b02541f71e8d355fccc642dfbab37d2" title=" " alt="" coords="276,121,521,148"/>
+<area shape="rect" id="node8" href="$classDynamicVoronoi.html#aa9719e4ba2c9f766fba77c76fddeb548" title=" " alt="" coords="291,172,506,199"/>
+<area shape="rect" id="node6" href="$classDynamicVoronoi.html#aa93b79d97c4e8347c812b6f9bbca20da" title="remove an obstacle at the specified cell coordinate" alt="" coords="19,60,214,87"/>
+<area shape="rect" id="node7" href="$classDynamicVoronoi.html#a19c5eaf461ff8614b7257c2ebbbf048c" title="remove old dynamic obstacles and add the new ones" alt="" coords="16,111,217,153"/>
+<area shape="rect" id="node9" href="$classDynamicVoronoi.html#aecb1202c10fb0d67c0363490971f0a53" title="add an obstacle at the specified cell coordinate" alt="" coords="12,177,221,204"/>
+</map>

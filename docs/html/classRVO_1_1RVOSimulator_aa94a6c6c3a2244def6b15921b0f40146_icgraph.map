@@ -1,0 +1,5 @@
+<map id="RVO::RVOSimulator::setAgentPrefVelocity" name="RVO::RVOSimulator::setAgentPrefVelocity">
+<area shape="rect" id="node1" title="Sets the two&#45;dimensional preferred velocity of a specified agent." alt="" coords="509,5,668,47"/>
+<area shape="rect" id="node2" href="$classorca__planner_1_1OrcaPlanner.html#a7daa1472ba5a72c013a7c972a4b9cb2b" title=" " alt="" coords="268,5,461,47"/>
+<area shape="rect" id="node3" href="$classorca__planner_1_1OrcaPlanner.html#a740fbdee26ce8c61931bb3d5c698f3db" title=" " alt="" coords="5,5,220,47"/>
+</map>

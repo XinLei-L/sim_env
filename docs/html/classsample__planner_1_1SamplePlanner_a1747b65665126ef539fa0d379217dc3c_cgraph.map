@@ -1,0 +1,4 @@
+<map id="sample_planner::SamplePlanner::makePlanService" name="sample_planner::SamplePlanner::makePlanService">
+<area shape="rect" id="node1" title="regeister planning service" alt="" coords="5,5,237,47"/>
+<area shape="rect" id="node2" href="$classsample__planner_1_1SamplePlanner.html#af53bae064f54e4135af188ffbca7c996" title="plan a path given start and goal in world map" alt="" coords="285,5,517,47"/>
+</map>

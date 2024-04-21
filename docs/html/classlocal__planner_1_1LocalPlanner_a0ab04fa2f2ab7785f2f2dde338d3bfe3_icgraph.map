@@ -1,0 +1,11 @@
+<map id="local_planner::LocalPlanner::regularizeAngle" name="local_planner::LocalPlanner::regularizeAngle">
+<area shape="rect" id="node1" title="Regularize angle to [&#45;pi, pi]." alt="" coords="531,211,731,252"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#a5b5ec439b5fee2aa0e271d3060597dc5" title="Execute LQR control process." alt="" coords="286,5,465,47"/>
+<area shape="rect" id="node3" href="$classlqr__planner_1_1LQRPlanner.html#ad900e94f0cf26f61af3d3114a8ab8c4a" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,48,220,89"/>
+<area shape="rect" id="node4" href="$classmpc__planner_1_1MPCPlanner.html#aa9d2bd20d2deadc0687cc132003f18d0" title="Execute MPC control process." alt="" coords="279,123,471,164"/>
+<area shape="rect" id="node5" href="$classmpc__planner_1_1MPCPlanner.html#a03236df0d48b7b6e1f26572d1ac02d27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,139,220,180"/>
+<area shape="rect" id="node6" href="$classorca__planner_1_1OrcaPlanner.html#a740fbdee26ce8c61931bb3d5c698f3db" title=" " alt="" coords="268,240,483,281"/>
+<area shape="rect" id="node7" href="$classrpp__planner_1_1RPPPlanner.html#ad6d14b7e6db8c7cadd5ed72a9428ec0f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,305,483,347"/>
+<area shape="rect" id="node8" href="$classpid__planner_1_1PIDPlanner.html#a4b0a4d5eb98b86855de05aed0c68aa8f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,371,483,412"/>
+<area shape="rect" id="node9" href="$classapf__planner_1_1APFPlanner.html#a697d369ed17d347523686588d36b0531" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,436,483,477"/>
+</map>

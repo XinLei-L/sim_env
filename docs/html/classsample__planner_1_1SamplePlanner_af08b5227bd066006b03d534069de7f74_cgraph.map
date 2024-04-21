@@ -1,0 +1,5 @@
+<map id="sample_planner::SamplePlanner::_pubLine" name="sample_planner::SamplePlanner::_pubLine">
+<area shape="rect" id="node1" title="Publishes a Marker msg with two points in Rviz." alt="" coords="5,39,237,80"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#a81208df10ab4a541636c7e3c18eb0019" title="Transform from costmap(x, y) to grid map(x, y)" alt="" coords="285,5,503,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1GlobalPlanner.html#a297e71216c9a9133b54b02379a9343d1" title="Transform from grid index(i) to grid map(x, y)" alt="" coords="285,71,503,112"/>
+</map>

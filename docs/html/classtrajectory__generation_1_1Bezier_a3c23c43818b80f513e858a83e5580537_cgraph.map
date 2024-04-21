@@ -1,0 +1,7 @@
+<map id="trajectory_generation::Bezier::generation" name="trajectory_generation::Bezier::generation">
+<area shape="rect" id="node1" title="Generate the path." alt="" coords="5,64,168,105"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Bezier.html#ace9296757a2940f1367e135f5aee3b62" title="Calculate the Bezier curve point." alt="" coords="228,5,391,47"/>
+<area shape="rect" id="node4" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="485,101,579,127"/>
+<area shape="rect" id="node5" href="$classtrajectory__generation_1_1Bezier.html#a037a51f135e5833ec4b06bdc8e5121f7" title="Calculate control points heuristically." alt="" coords="216,123,403,164"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Bezier.html#a58de2590401bc49714eb943228a26f07" title=" " alt="" coords="451,5,613,47"/>
+</map>

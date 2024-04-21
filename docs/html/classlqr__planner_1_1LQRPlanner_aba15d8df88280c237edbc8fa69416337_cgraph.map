@@ -1,0 +1,7 @@
+<map id="lqr_planner::LQRPlanner::LQRPlanner" name="lqr_planner::LQRPlanner::LQRPlanner">
+<area shape="rect" id="node1" title="Construct a new LQR planner object." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#acb371ea2a05a107cc9bb5f5a59d588a4" title="Initialization of the local planner." alt="" coords="232,71,411,112"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html#a1e0bc67bad2c05078246d92700b00c96" title="Set or reset costmap origin." alt="" coords="459,5,659,47"/>
+<area shape="rect" id="node4" href="$classlocal__planner_1_1LocalPlanner.html#aca6efcb27353277ccf9bcb8cd4ad71d5" title="Set or reset costmap resolution." alt="" coords="459,71,659,112"/>
+<area shape="rect" id="node5" href="$classlocal__planner_1_1LocalPlanner.html#aeb6474007b7c7fe803e3616d89c6d115" title="Set or reset costmap size." alt="" coords="459,136,659,177"/>
+</map>

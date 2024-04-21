@@ -1,0 +1,16 @@
+<map id="helper::clamp" name="helper::clamp">
+<area shape="rect" id="node1" title="Clamps a value within a specified range." alt="" coords="815,209,925,235"/>
+<area shape="rect" id="node2" href="$classtrajectory__optimization_1_1CGOptimizer.html#ae3c8ce181120520c023976151514aeb1" title=" " alt="" coords="531,71,767,112"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html#a19285dda2cecf3469840d63a867e37b6" title="Calculate the look&#45;ahead distance with current speed dynamically." alt="" coords="549,136,749,177"/>
+<area shape="rect" id="node8" href="$classgazebo_1_1PedestrianSFMPlugin.html#af0704abc73c874bd582ca231bc4ccfef" title="Helper function to detect the closest obstacles." alt="" coords="541,201,756,243"/>
+<area shape="rect" id="node11" href="$classglobal__planner_1_1PSO.html#ade382f654eaf36ae6ba1935e1a04059b" title="A function to update the particle position." alt="" coords="561,267,737,308"/>
+<area shape="rect" id="node14" href="$classglobal__planner_1_1PSO.html#af521c71dab3fc7078d5a3eb4ccadbd6c" title="A function to update the particle velocity." alt="" coords="560,332,737,373"/>
+<area shape="rect" id="node4" href="$classlqr__planner_1_1LQRPlanner.html#ad900e94f0cf26f61af3d3114a8ab8c4a" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node5" href="$classrpp__planner_1_1RPPPlanner.html#ad6d14b7e6db8c7cadd5ed72a9428ec0f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,71,483,112"/>
+<area shape="rect" id="node6" href="$classmpc__planner_1_1MPCPlanner.html#a03236df0d48b7b6e1f26572d1ac02d27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,136,483,177"/>
+<area shape="rect" id="node7" href="$classpid__planner_1_1PIDPlanner.html#a4b0a4d5eb98b86855de05aed0c68aa8f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="268,201,483,243"/>
+<area shape="rect" id="node9" href="$classgazebo_1_1PedestrianSFMPlugin.html#a65bf7c30a53fb4a79ef51fd9caf081ab" title="Function that is called every update cycle." alt="" coords="268,267,483,308"/>
+<area shape="rect" id="node10" href="$classgazebo_1_1PedestrianSFMPlugin.html#abfa23219fec8ff5349f037e06903c855" title="Load the actor plugin." alt="" coords="5,267,220,308"/>
+<area shape="rect" id="node12" href="$classglobal__planner_1_1PSO.html#ac76607e6bdeb970354b6dc1ee77c0558" title="Particle update optimization iteration." alt="" coords="299,332,451,373"/>
+<area shape="rect" id="node13" href="$classglobal__planner_1_1PSO.html#a3b8dd1af1d84ed7672f6bab5576136e8" title="PSO implementation." alt="" coords="37,332,189,373"/>
+</map>

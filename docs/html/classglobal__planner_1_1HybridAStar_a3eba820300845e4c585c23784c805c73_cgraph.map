@@ -1,0 +1,5 @@
+<map id="global_planner::HybridAStar::HybridAStar" name="global_planner::HybridAStar::HybridAStar">
+<area shape="rect" id="node1" title="Construct a new Hybrid A* object." alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Dubins.html#a01b315dae05bcc10bb488f493291e2c1" title="Configure the maximum curvature." alt="" coords="257,5,420,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Curve.html#a4e62678c2f39ed1ba4cd883d23b909b0" title="Configure the simulation step." alt="" coords="257,71,420,112"/>
+</map>

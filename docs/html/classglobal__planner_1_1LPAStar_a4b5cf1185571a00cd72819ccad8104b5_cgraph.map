@@ -1,0 +1,4 @@
+<map id="global_planner::LPAStar::getNeighbours" name="global_planner::LPAStar::getNeighbours">
+<area shape="rect" id="node1" title="Get neighbour LNodePtrs of nodePtr." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1LPAStar.html#a0a364378931ad8045d0363be106686ba" title="Check if there is collision between n1 and n2." alt="" coords="229,5,405,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="global_planner::HybridAStar::_worldToIndex" name="global_planner::HybridAStar::_worldToIndex">
+<area shape="rect" id="node1" title="Tranform from world map(x, y) to grid index(i)" alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1HybridAStar.html#a268f5dc685285fe8d34ff686b32926b5" title="Tranform from world map(x, y) to grid map(x, y)" alt="" coords="264,37,468,79"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="257,103,475,144"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1GlobalPlanner.html#ad5875f4d040ef4b9a460552c8831d0d7" title="Transform from grid map(x, y) to grid map(x, y)" alt="" coords="523,5,740,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1GlobalPlanner.html#a11f74a52a3ad1e0a211c3e6e01f9c4b3" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="523,71,740,112"/>
+</map>

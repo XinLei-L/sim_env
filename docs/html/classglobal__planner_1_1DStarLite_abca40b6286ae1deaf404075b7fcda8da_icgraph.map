@@ -1,0 +1,6 @@
+<map id="global_planner::DStarLite::getCost" name="global_planner::DStarLite::getCost">
+<area shape="rect" id="node1" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="709,35,896,76"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStarLite.html#a591f49fd9633d5c0ffa5d24e0733d75a" title="Update vertex u." alt="" coords="475,35,661,76"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1DStarLite.html#ac91f02a3005bc06704a033b072c1ec52" title="Main process of D* lite." alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1DStarLite.html#a28255bb5df12fce55a5a4d4384ff4489" title="D* lite implementation." alt="" coords="5,35,192,76"/>
+</map>

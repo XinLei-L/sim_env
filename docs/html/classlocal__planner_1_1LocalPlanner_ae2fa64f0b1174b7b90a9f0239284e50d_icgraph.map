@@ -1,0 +1,5 @@
+<map id="local_planner::LocalPlanner::worldToMap" name="local_planner::LocalPlanner::worldToMap">
+<area shape="rect" id="node1" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="497,5,697,47"/>
+<area shape="rect" id="node2" href="$classapf__planner_1_1APFPlanner.html#af5cd67ac6d08ff1cdd5e8017dd6f76f9" title="Get the repulsive force of APF." alt="" coords="268,5,449,47"/>
+<area shape="rect" id="node3" href="$classapf__planner_1_1APFPlanner.html#a697d369ed17d347523686588d36b0531" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

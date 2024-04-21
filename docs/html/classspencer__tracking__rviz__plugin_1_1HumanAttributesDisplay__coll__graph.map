@@ -1,0 +1,15 @@
+<map id="spencer_tracking_rviz_plugin::HumanAttributesDisplay" name="spencer_tracking_rviz_plugin::HumanAttributesDisplay">
+<area shape="rect" id="node1" title="The display which can be added in RViz to display human attributes." alt="" coords="437,1703,674,2029"/>
+<area shape="rect" id="node2" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html" title=" " alt="" coords="278,1041,529,1383"/>
+<area shape="rect" id="node3" title=" " alt="" coords="302,747,505,854"/>
+<area shape="rect" id="node4" href="$classspencer__tracking__rviz__plugin_1_1StylesChangedSubscriber.html" title="Subclasses of PersonDisplayCommon can override stylesChanged() to get notified when one of the proper..." alt="" coords="184,5,426,112"/>
+<area shape="rect" id="node5" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommonProperties.html" title="Common properties shared by multiple displays." alt="" coords="172,175,438,575"/>
+<area shape="rect" id="node7" href="$classspencer__tracking__rviz__plugin_1_1PersonDisplayCommon.html" title="A display with common properties that are shared by multiple specializations." alt="" coords="529,637,780,964"/>
+<area shape="rect" id="node6" title=" " alt="" coords="896,20,970,97"/>
+<area shape="rect" id="node11" href="$classrviz_1_1__AdditionalTopicSubscriber.html" title="Helper superclass for AdditionalTopicSubscriber, needed because Qt&#39;s moc and c++ templates don&#39;t work..." alt="" coords="912,314,1140,435"/>
+<area shape="rect" id="node8" title=" " alt="" coords="462,329,655,421"/>
+<area shape="rect" id="node9" href="$classspencer__tracking__rviz__plugin_1_1TrackedPersonsCache.html" title=" " alt="" coords="637,1445,888,1640"/>
+<area shape="rect" id="node10" href="$classrviz_1_1AdditionalTopicSubscriber.html" title=" " alt="" coords="721,1049,1036,1375"/>
+<area shape="rect" id="node13" href="$classrviz_1_1AdditionalTopicSubscriber.html" title="Display subclass using a tf::MessageFilter, templated on the ROS message type." alt="" coords="914,637,1139,964"/>
+<area shape="rect" id="node12" title=" " alt="" coords="813,336,872,413"/>
+</map>

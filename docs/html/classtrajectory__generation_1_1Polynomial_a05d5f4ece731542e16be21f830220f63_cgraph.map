@@ -1,0 +1,11 @@
+<map id="trajectory_generation::Polynomial::run" name="trajectory_generation::Polynomial::run">
+<area shape="rect" id="node1" title="Running trajectory generation." alt="" coords="5,235,168,276"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Polynomial.html#a4d5abd2e121ce5dbee101dfed1f664e8" title="Generate a valid trajectory from start state to goal state." alt="" coords="216,169,397,211"/>
+<area shape="rect" id="node8" href="$classtrajectory__generation_1_1PolyTrajectory.html#a21ea590ad53f9fe4899670020e7a8885" title="Convert the trajectory to path points." alt="" coords="221,267,393,308"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1PolyTrajectory.html#a7f12a942e22c967c8deac8e79013c1da" title="Append the state to Polynomial trajectory." alt="" coords="445,5,624,47"/>
+<area shape="rect" id="node4" href="$classtrajectory__generation_1_1PolyTrajectory.html#a6a0a2d51d3809ed5b4a04334131f1039" title="Clear the Polynomial trajectory." alt="" coords="453,71,616,112"/>
+<area shape="rect" id="node5" href="$classtrajectory__generation_1_1PolyTrajectory.html#a4abd9639020cc9fe641944cea94a67be" title="Determine the direction of the motion trajectory." alt="" coords="453,136,616,177"/>
+<area shape="rect" id="node6" href="$classtrajectory__generation_1_1Poly.html#af3494b07e71014b1b827a72dc434f42a" title=" " alt="" coords="453,201,616,243"/>
+<area shape="rect" id="node7" href="$classtrajectory__generation_1_1PolyTrajectory.html#aa8887d3bc965d66c25f4ecd7ce8c6f4d" title="Determine whether the generated trajectory is valid." alt="" coords="453,267,616,308"/>
+<area shape="rect" id="node9" href="$classtrajectory__generation_1_1PolyTrajectory.html#a039db42b44caf2be1d59d5b68ab21462" title="Calculate the size of trajectory." alt="" coords="453,332,616,373"/>
+</map>

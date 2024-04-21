@@ -1,0 +1,5 @@
+<map id="global_planner::JumpPointSearch::detectForceNeighbor" name="global_planner::JumpPointSearch::detectForceNeighbor">
+<area shape="rect" id="node1" title="Detect whether current node has forced neighbor or not." alt="" coords="485,5,695,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1JumpPointSearch.html#aee37871015bf7f038dd63e13c36ce60b" title="Calculate jump node recursively." alt="" coords="245,5,437,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1JumpPointSearch.html#ad21aafd5a95ddb7c66bec8e665c8d4a1" title="Jump Point Search(JPS) implementation." alt="" coords="5,5,197,47"/>
+</map>

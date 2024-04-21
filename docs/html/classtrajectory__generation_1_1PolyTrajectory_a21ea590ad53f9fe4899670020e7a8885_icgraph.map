@@ -1,0 +1,4 @@
+<map id="trajectory_generation::PolyTrajectory::toPath" name="trajectory_generation::PolyTrajectory::toPath">
+<area shape="rect" id="node1" title="Convert the trajectory to path points." alt="" coords="216,5,388,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Polynomial.html#a05d5f4ece731542e16be21f830220f63" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="apf_planner::APFPlanner::initialize" name="apf_planner::APFPlanner::initialize">
+<area shape="rect" id="node1" title="Initialization of the local planner." alt="" coords="5,104,187,145"/>
+<area shape="rect" id="node2" href="$classapf__planner_1_1APFPlanner.html#aa5c54081506bdd8278db25729163998d" title="Callback function of costmap_sub_ to publish /potential_map topic." alt="" coords="244,5,425,47"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html#a1e0bc67bad2c05078246d92700b00c96" title="Set or reset costmap origin." alt="" coords="235,71,435,112"/>
+<area shape="rect" id="node4" href="$classlocal__planner_1_1LocalPlanner.html#aca6efcb27353277ccf9bcb8cd4ad71d5" title="Set or reset costmap resolution." alt="" coords="235,136,435,177"/>
+<area shape="rect" id="node5" href="$classlocal__planner_1_1LocalPlanner.html#aeb6474007b7c7fe803e3616d89c6d115" title="Set or reset costmap size." alt="" coords="235,201,435,243"/>
+</map>

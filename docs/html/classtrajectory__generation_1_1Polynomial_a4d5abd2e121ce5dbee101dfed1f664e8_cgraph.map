@@ -1,0 +1,8 @@
+<map id="trajectory_generation::Polynomial::generation" name="trajectory_generation::Polynomial::generation">
+<area shape="rect" id="node1" title="Generate a valid trajectory from start state to goal state." alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1PolyTrajectory.html#a7f12a942e22c967c8deac8e79013c1da" title="Append the state to Polynomial trajectory." alt="" coords="235,5,413,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1PolyTrajectory.html#a6a0a2d51d3809ed5b4a04334131f1039" title="Clear the Polynomial trajectory." alt="" coords="243,71,405,112"/>
+<area shape="rect" id="node4" href="$classtrajectory__generation_1_1PolyTrajectory.html#a4abd9639020cc9fe641944cea94a67be" title="Determine the direction of the motion trajectory." alt="" coords="243,136,405,177"/>
+<area shape="rect" id="node5" href="$classtrajectory__generation_1_1Poly.html#af3494b07e71014b1b827a72dc434f42a" title=" " alt="" coords="243,201,405,243"/>
+<area shape="rect" id="node6" href="$classtrajectory__generation_1_1PolyTrajectory.html#aa8887d3bc965d66c25f4ecd7ce8c6f4d" title="Determine whether the generated trajectory is valid." alt="" coords="243,267,405,308"/>
+</map>

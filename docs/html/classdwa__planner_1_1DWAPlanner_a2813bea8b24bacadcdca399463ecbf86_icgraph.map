@@ -1,0 +1,4 @@
+<map id="dwa_planner::DWAPlanner::reconfigureCB" name="dwa_planner::DWAPlanner::reconfigureCB">
+<area shape="rect" id="node1" title="Callback to update the local planner&#39;s parameters based on dynamic reconfigure." alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node2" href="$classdwa__planner_1_1DWAPlanner.html#aaa2bd5518ae57506612b4c7e954e05d5" title="Constructs the ros wrapper." alt="" coords="5,5,200,47"/>
+</map>

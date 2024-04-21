@@ -1,0 +1,4 @@
+<map id="trajectory_generation::Dubins::generation" name="trajectory_generation::Dubins::generation">
+<area shape="rect" id="node1" title="Generate the path." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Dubins.html#ac95f9a832077c72d285e5146133ab15f" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

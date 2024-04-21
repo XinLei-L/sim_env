@@ -1,0 +1,7 @@
+<map id="global_planner::RRTStar::_findNearestPoint" name="global_planner::RRTStar::_findNearestPoint">
+<area shape="rect" id="node1" title="Regular the new node by the nearest node in the sample list." alt="" coords="5,75,184,117"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1RRT.html#a11476392ffbfa48a1bb151a660f1404f" title="Check if there is any obstacle between the 2 nodes." alt="" coords="232,46,403,87"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="506,5,613,32"/>
+<area shape="rect" id="node4" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="512,67,607,93"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="451,130,668,171"/>
+</map>

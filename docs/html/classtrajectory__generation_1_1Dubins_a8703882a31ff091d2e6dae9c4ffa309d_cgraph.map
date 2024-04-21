@@ -1,0 +1,7 @@
+<map id="trajectory_generation::Dubins::generation" name="trajectory_generation::Dubins::generation">
+<area shape="rect" id="node1" title="Generate the path." alt="" coords="5,93,168,135"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Dubins.html#a0e5f67d306967619a7756276782a4699" title="Update the best motion mode." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="250,71,345,98"/>
+<area shape="rect" id="node4" href="$classtrajectory__generation_1_1Dubins.html#ae56cfba11ec9b4f52559b157f2ae20fb" title="Planning path interpolation." alt="" coords="216,123,379,164"/>
+<area shape="rect" id="node5" href="$namespacehelper.html#ad729ebd9d638bd46698cfa18f0c1e95e" title="Perform modulus operation on 2π." alt="" coords="237,189,357,215"/>
+</map>

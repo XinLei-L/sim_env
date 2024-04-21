@@ -1,0 +1,4 @@
+<map id="global_planner::GlobalPlanner::setResolution" name="global_planner::GlobalPlanner::setResolution">
+<area shape="rect" id="node1" title="Set or reset costmap resolution." alt="" coords="271,5,488,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#aed761ab02eda1785cef9a337778387fe" title="Construct a new Global Planner object." alt="" coords="5,5,223,47"/>
+</map>

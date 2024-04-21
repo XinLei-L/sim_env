@@ -1,0 +1,6 @@
+<map id="global_planner::GlobalPlanner::setOrigin" name="global_planner::GlobalPlanner::setOrigin">
+<area shape="rect" id="node1" title="Set or reset costmap origin." alt="" coords="285,79,503,120"/>
+<area shape="rect" id="node2" href="$classgraph__planner_1_1GraphPlanner.html#a6cab76b30d0248101d9f05c1845f220a" title="Planner initialization." alt="" coords="16,5,227,47"/>
+<area shape="rect" id="node3" href="$classevolutionary__planner_1_1EvolutionaryPlanner.html#a59c5866418629e0e4237c92ae1633a86" title="Planner initialization." alt="" coords="41,71,202,127"/>
+<area shape="rect" id="node4" href="$classsample__planner_1_1SamplePlanner.html#a4a7560ef227832384b1bebec0eb0c405" title="Planner initialization." alt="" coords="5,152,237,193"/>
+</map>

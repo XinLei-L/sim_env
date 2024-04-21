@@ -1,0 +1,6 @@
+<map id="global_planner::HybridAStar::_worldToIndex" name="global_planner::HybridAStar::_worldToIndex">
+<area shape="rect" id="node1" title="Tranform from world map(x, y) to grid index(i)" alt="" coords="509,25,713,67"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1HybridAStar.html#af2b35575b0ff2bf8018ddfa504d742d2" title=" " alt="" coords="5,25,209,67"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1HybridAStar.html#af1d07bc4475fc567df6bb28709c556e6" title="update the h&#45;value of hybrid node" alt="" coords="257,25,461,67"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1HybridAStar.html#aa275586aead879a7139c8f1adb456b78" title="update index of hybrid node" alt="" coords="257,91,461,132"/>
+</map>

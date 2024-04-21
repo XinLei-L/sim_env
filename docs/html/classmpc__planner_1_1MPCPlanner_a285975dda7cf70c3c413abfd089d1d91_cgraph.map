@@ -1,0 +1,7 @@
+<map id="mpc_planner::MPCPlanner::MPCPlanner" name="mpc_planner::MPCPlanner::MPCPlanner">
+<area shape="rect" id="node1" title="Construct a new MPC planner object." alt="" coords="5,71,197,112"/>
+<area shape="rect" id="node2" href="$classmpc__planner_1_1MPCPlanner.html#a3afa4dcfa66dc44d473deeabc2f7df36" title="Initialization of the local planner." alt="" coords="245,71,437,112"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html#a1e0bc67bad2c05078246d92700b00c96" title="Set or reset costmap origin." alt="" coords="485,5,685,47"/>
+<area shape="rect" id="node4" href="$classlocal__planner_1_1LocalPlanner.html#aca6efcb27353277ccf9bcb8cd4ad71d5" title="Set or reset costmap resolution." alt="" coords="485,71,685,112"/>
+<area shape="rect" id="node5" href="$classlocal__planner_1_1LocalPlanner.html#aeb6474007b7c7fe803e3616d89c6d115" title="Set or reset costmap size." alt="" coords="485,136,685,177"/>
+</map>

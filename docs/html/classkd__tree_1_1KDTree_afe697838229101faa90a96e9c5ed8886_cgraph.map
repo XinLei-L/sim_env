@@ -1,0 +1,5 @@
+<map id="kd_tree::KDTree::_nnSearchRecursive" name="kd_tree::KDTree::_nnSearchRecursive">
+<area shape="rect" id="node1" title="Searches the nearest neighbor recursively." alt="" coords="5,23,205,65"/>
+<area shape="rect" id="node2" href="$classkd__tree_1_1KDTree.html#ab6601cc5cc8fd8a94ee2a51e76e998bf" title="Calculate the distance between kd node p and q." alt="" coords="253,5,448,32"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="496,31,591,57"/>
+</map>

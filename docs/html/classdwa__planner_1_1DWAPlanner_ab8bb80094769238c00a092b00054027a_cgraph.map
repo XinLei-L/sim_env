@@ -1,0 +1,5 @@
+<map id="dwa_planner::DWAPlanner::dwaComputeVelocityCommands" name="dwa_planner::DWAPlanner::dwaComputeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute velocity commands to send..." alt="" coords="5,39,248,80"/>
+<area shape="rect" id="node2" href="$classdwa__planner_1_1DWAPlanner.html#a2367eebffec8c10ba53a06500fcefc4a" title=" " alt="" coords="296,5,491,47"/>
+<area shape="rect" id="node3" href="$classdwa__planner_1_1DWAPlanner.html#a420f49c22e6e1296a0d3423822c23d0c" title=" " alt="" coords="296,71,491,112"/>
+</map>

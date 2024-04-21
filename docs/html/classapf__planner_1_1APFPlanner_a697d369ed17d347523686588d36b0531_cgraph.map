@@ -1,0 +1,14 @@
+<map id="apf_planner::APFPlanner::computeVelocityCommands" name="apf_planner::APFPlanner::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,235,220,276"/>
+<area shape="rect" id="node2" href="$classlocal__planner_1_1LocalPlanner.html#a2968f358c5649d44e6f0fb5b86cd5d8d" title="angular velocity regularization" alt="" coords="268,5,468,47"/>
+<area shape="rect" id="node3" href="$classapf__planner_1_1APFPlanner.html#a0e4a33a1a9ccfdc93db3844d32f76cc5" title="Get the attractive force of APF." alt="" coords="277,71,459,112"/>
+<area shape="rect" id="node4" href="$classapf__planner_1_1APFPlanner.html#af5cd67ac6d08ff1cdd5e8017dd6f76f9" title="Get the repulsive force of APF." alt="" coords="277,136,459,177"/>
+<area shape="rect" id="node7" href="$classlocal__planner_1_1LocalPlanner.html#ac7b46cc55bf19c071194666fa56bce50" title="linear velocity regularization" alt="" coords="268,201,468,243"/>
+<area shape="rect" id="node8" href="$classlocal__planner_1_1LocalPlanner.html#a0ab04fa2f2ab7785f2f2dde338d3bfe3" title="Regularize angle to [&#45;pi, pi]." alt="" coords="268,332,468,373"/>
+<area shape="rect" id="node10" href="$classlocal__planner_1_1LocalPlanner.html#aec93340b27a08e9042e172e7f9e65d25" title="Whether to reach the target pose through rotation operation." alt="" coords="268,267,468,308"/>
+<area shape="rect" id="node11" href="$classlocal__planner_1_1LocalPlanner.html#a7d4825bef7a47c5fad411bd3532bc82b" title="Whether to correct the tracking path with rotation operation." alt="" coords="268,397,468,439"/>
+<area shape="rect" id="node12" href="$classlocal__planner_1_1LocalPlanner.html#a995db23cdbdfa141e485054a21761549" title="Tranform from in_pose to out_pose with out frame using tf." alt="" coords="268,463,468,504"/>
+<area shape="rect" id="node5" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="569,238,663,265"/>
+<area shape="rect" id="node6" href="$classlocal__planner_1_1LocalPlanner.html#ae2fa64f0b1174b7b90a9f0239284e50d" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="516,136,716,177"/>
+<area shape="rect" id="node9" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="563,339,669,366"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src/core/local_planner/orca_planner/include/RVO/Vector2.h" name="src/core/local_planner/orca_planner/include/RVO/Vector2.h">
+<area shape="rect" id="node1" title="Declares and defines the Vector2 class." alt="" coords="485,5,649,61"/>
+<area shape="rect" id="node2" href="$Line_8h.html" title="Declares the Line class." alt="" coords="245,109,409,165"/>
+<area shape="rect" id="node3" href="$RVO_8h.html" title="Includes all public headers in the library." alt="" coords="6,213,170,269"/>
+<area shape="rect" id="node6" href="$Agent_8h.html" title="Declares the Agent class." alt="" coords="485,213,649,269"/>
+<area shape="rect" id="node8" href="$KdTree_8cc.html" title="Defines the KdTree class." alt="" coords="870,317,1034,373"/>
+<area shape="rect" id="node9" href="$RVOSimulator_8cc.html" title="Defines the RVOSimulator class." alt="" coords="303,317,470,373"/>
+<area shape="rect" id="node11" href="$Obstacle_8h.html" title="Declares the Obstacle class." alt="" coords="673,213,837,269"/>
+<area shape="rect" id="node13" href="$Vector2_8cc.html" title="Defines the Vector2 class." alt="" coords="913,109,1077,165"/>
+<area shape="rect" id="node10" href="$Line_8cc.html" title="Defines the Line class." alt="" coords="194,213,358,269"/>
+<area shape="rect" id="node4" href="$orca__planner_8h.html" title=" " alt="" coords="6,317,170,373"/>
+<area shape="rect" id="node5" href="$orca__planner_8cpp.html" title=" " alt="" coords="5,421,171,477"/>
+<area shape="rect" id="node7" href="$Agent_8cc.html" title="Defines the Agent class." alt="" coords="494,317,658,373"/>
+<area shape="rect" id="node12" href="$Obstacle_8cc.html" title="Defines the Obstacle class." alt="" coords="682,317,846,373"/>
+</map>

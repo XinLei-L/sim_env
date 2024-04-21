@@ -1,0 +1,5 @@
+<map id="global_planner::ThetaStar::_lineOfSight" name="global_planner::ThetaStar::_lineOfSight">
+<area shape="rect" id="node1" title="Bresenham algorithm to check if there is any obstacle between parent and child." alt="" coords="5,27,195,69"/>
+<area shape="rect" id="node2" href="$namespaceRVO.html#a7dfc210ac834d1de9bfde0b42d91e8b8" title=" " alt="" coords="311,5,392,32"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="243,57,460,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="global_planner::DStarLite::DStarLite" name="global_planner::DStarLite::DStarLite">
+<area shape="rect" id="node1" title="Construct a new DStarLite object." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStarLite.html#a2327d4942b5203813fd5c444922b9399" title="Init map." alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="475,5,692,47"/>
+</map>

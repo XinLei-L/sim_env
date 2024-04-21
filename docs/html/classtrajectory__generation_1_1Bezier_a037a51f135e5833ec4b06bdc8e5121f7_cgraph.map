@@ -1,0 +1,4 @@
+<map id="trajectory_generation::Bezier::getControlPoints" name="trajectory_generation::Bezier::getControlPoints">
+<area shape="rect" id="node1" title="Calculate control points heuristically." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="240,13,335,39"/>
+</map>

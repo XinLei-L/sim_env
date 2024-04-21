@@ -1,0 +1,20 @@
+<map id="lqr_planner::LQRPlanner::computeVelocityCommands" name="lqr_planner::LQRPlanner::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,287,220,328"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#a5b5ec439b5fee2aa0e271d3060597dc5" title="Execute LQR control process." alt="" coords="279,5,457,47"/>
+<area shape="rect" id="node4" href="$classlocal__planner_1_1LocalPlanner.html#a0ab04fa2f2ab7785f2f2dde338d3bfe3" title="Regularize angle to [&#45;pi, pi]." alt="" coords="537,64,737,105"/>
+<area shape="rect" id="node6" href="$classlocal__planner_1_1LocalPlanner.html#a2968f358c5649d44e6f0fb5b86cd5d8d" title="angular velocity regularization" alt="" coords="268,123,468,164"/>
+<area shape="rect" id="node7" href="$classlocal__planner_1_1LocalPlanner.html#a19285dda2cecf3469840d63a867e37b6" title="Calculate the look&#45;ahead distance with current speed dynamically." alt="" coords="268,188,468,229"/>
+<area shape="rect" id="node9" href="$classlocal__planner_1_1LocalPlanner.html#a7f44911144ca3d1dd5820c805e574e9a" title="find the point on the path that is exactly the lookahead distance away from the robot" alt="" coords="268,253,468,295"/>
+<area shape="rect" id="node11" href="$classlocal__planner_1_1LocalPlanner.html#ac7b46cc55bf19c071194666fa56bce50" title="linear velocity regularization" alt="" coords="268,319,468,360"/>
+<area shape="rect" id="node12" href="$classlocal__planner_1_1LocalPlanner.html#a92044166461c75601c1e1822128b5a52" title="Prune the path, removing the waypoints that the robot has already passed and distant waypoints." alt="" coords="268,384,468,425"/>
+<area shape="rect" id="node16" href="$classlocal__planner_1_1LocalPlanner.html#aec93340b27a08e9042e172e7f9e65d25" title="Whether to reach the target pose through rotation operation." alt="" coords="537,479,737,520"/>
+<area shape="rect" id="node17" href="$classlocal__planner_1_1LocalPlanner.html#a7d4825bef7a47c5fad411bd3532bc82b" title="Whether to correct the tracking path with rotation operation." alt="" coords="268,501,468,543"/>
+<area shape="rect" id="node18" href="$classlocal__planner_1_1LocalPlanner.html#a995db23cdbdfa141e485054a21761549" title="Tranform from in_pose to out_pose with out frame using tf." alt="" coords="268,567,468,608"/>
+<area shape="rect" id="node3" href="$namespaceRVO.html#a7dfc210ac834d1de9bfde0b42d91e8b8" title=" " alt="" coords="596,13,677,39"/>
+<area shape="rect" id="node5" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="805,71,912,98"/>
+<area shape="rect" id="node8" href="$namespacehelper.html#a9c9a4cb40a943aa90715a81a7739c986" title="Clamps a value within a specified range." alt="" coords="581,195,692,222"/>
+<area shape="rect" id="node10" href="$namespacehelper.html#a5f5d8a6af58aba9152506f86919ff839" title="Formula for intersection of a line with a circle centered at the origin." alt="" coords="516,261,757,287"/>
+<area shape="rect" id="node13" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="811,377,906,403"/>
+<area shape="rect" id="node14" href="$namespacehelper.html#ae94b70df291d8464ddf5c37d64f4bf40" title="Find the first element in iterator that is greater integrated distance than compared value." alt="" coords="526,377,747,403"/>
+<area shape="rect" id="node15" href="$namespacehelper.html#ad7625b199a37802bc66ee636945ea7ff" title="Find the first element in iterator with the minimum calculated value." alt="" coords="553,427,720,454"/>
+</map>

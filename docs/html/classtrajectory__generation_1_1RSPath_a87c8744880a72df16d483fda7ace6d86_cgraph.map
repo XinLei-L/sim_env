@@ -1,0 +1,4 @@
+<map id="trajectory_generation::RSPath::size" name="trajectory_generation::RSPath::size">
+<area shape="rect" id="node1" title="Calculate the number of segments for generating trajectories." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1RSPath.html#afc8f074f7cfe6c79371ff68db08b94c2" title="Determine whether the generated trajectory is valid." alt="" coords="216,5,379,47"/>
+</map>

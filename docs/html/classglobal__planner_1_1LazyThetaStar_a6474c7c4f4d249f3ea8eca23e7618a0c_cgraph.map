@@ -1,0 +1,8 @@
+<map id="global_planner::LazyThetaStar::_setVertex" name="global_planner::LazyThetaStar::_setVertex">
+<area shape="rect" id="node1" title="check if the parent of vertex need to be updated. if so, update it" alt="" coords="5,89,199,131"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1ThetaStar.html#a4afcd6470ea4d69a057ca0934abc73ed" title="Bresenham algorithm to check if there is any obstacle between parent and child." alt="" coords="261,5,450,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="512,64,729,105"/>
+<area shape="rect" id="node5" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="308,122,403,149"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1GlobalPlanner.html#a297e71216c9a9133b54b02379a9343d1" title="Transform from grid index(i) to grid map(x, y)" alt="" coords="247,173,464,215"/>
+<area shape="rect" id="node3" href="$namespaceRVO.html#a7dfc210ac834d1de9bfde0b42d91e8b8" title=" " alt="" coords="580,13,661,39"/>
+</map>

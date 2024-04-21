@@ -1,0 +1,4 @@
+<map id="trajectory_generation::Curve::len" name="trajectory_generation::Curve::len">
+<area shape="rect" id="node1" title="Calculate length of given path." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="216,13,311,39"/>
+</map>

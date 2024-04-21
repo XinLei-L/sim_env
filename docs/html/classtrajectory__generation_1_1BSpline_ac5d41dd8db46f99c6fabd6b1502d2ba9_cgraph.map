@@ -1,0 +1,4 @@
+<map id="trajectory_generation::BSpline::interpolation" name="trajectory_generation::BSpline::interpolation">
+<area shape="rect" id="node1" title="Given a set of N data points, D0, D1, ..., Dn and a degree k, find a B&#45;spline curve of degree k defin..." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1BSpline.html#aa0665ddb47a09c738957564deff59ed0" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="224,5,397,47"/>
+</map>

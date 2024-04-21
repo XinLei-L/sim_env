@@ -1,0 +1,4 @@
+<map id="lqr_planner::LQRPlanner::_lqrControl" name="lqr_planner::LQRPlanner::_lqrControl">
+<area shape="rect" id="node1" title="Execute LQR control process." alt="" coords="268,5,447,47"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#ad900e94f0cf26f61af3d3114a8ab8c4a" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

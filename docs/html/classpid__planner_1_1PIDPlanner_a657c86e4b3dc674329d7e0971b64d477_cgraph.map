@@ -1,0 +1,4 @@
+<map id="pid_planner::PIDPlanner::PIDPlanner" name="pid_planner::PIDPlanner::PIDPlanner">
+<area shape="rect" id="node1" title="Construct a new PIDPlanner object." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classpid__planner_1_1PIDPlanner.html#a07ceea360173c185c02b865ead78c877" title="Initialization of the local planner." alt="" coords="231,5,408,47"/>
+</map>

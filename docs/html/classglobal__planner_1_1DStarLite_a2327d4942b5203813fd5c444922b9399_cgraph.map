@@ -1,0 +1,4 @@
+<map id="global_planner::DStarLite::initMap" name="global_planner::DStarLite::initMap">
+<area shape="rect" id="node1" title="Init map." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="240,5,457,47"/>
+</map>

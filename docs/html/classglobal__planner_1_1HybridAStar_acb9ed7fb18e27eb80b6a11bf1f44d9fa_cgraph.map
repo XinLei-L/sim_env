@@ -1,0 +1,6 @@
+<map id="global_planner::HybridAStar::genHeurisiticMap" name="global_planner::HybridAStar::genHeurisiticMap">
+<area shape="rect" id="node1" title="generate heurisitic map using A* algorithm, each matric of map is the distance between it and start." alt="" coords="5,27,209,69"/>
+<area shape="rect" id="node2" href="$classNode.html#abfad161e1ca99c634a3a63a999500d3f" title="Get permissible motion." alt="" coords="301,5,431,32"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="257,57,475,98"/>
+<area shape="rect" id="node3" href="$classNode.html#a36f435f304ee0979f38892ba34b39381" title="Constructor for Node class." alt="" coords="523,5,621,32"/>
+</map>

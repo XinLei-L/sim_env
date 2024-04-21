@@ -1,0 +1,11 @@
+<map id="global_planner::RRTConnect::plan" name="global_planner::RRTConnect::plan">
+<area shape="rect" id="node1" title="RRT implementation." alt="" coords="5,253,209,295"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1RRTConnect.html#a2b82e11b4b8ff6fc9c2ad7d0cd7ac624" title="convert closed list to path" alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1RRT.html#a2a96f1ca4463b7c1e9e2a08f099aa399" title="Regular the sample node by the nearest node in the sample list." alt="" coords="283,195,435,236"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1RRT.html#a11476392ffbfa48a1bb151a660f1404f" title="Check if there is any obstacle between the 2 nodes." alt="" coords="533,224,703,265"/>
+<area shape="rect" id="node5" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="830,122,937,149"/>
+<area shape="rect" id="node6" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="836,231,931,258"/>
+<area shape="rect" id="node7" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="775,283,992,324"/>
+<area shape="rect" id="node8" href="$classglobal__planner_1_1RRT.html#ab414d9ced4e2c1ee43c633b79bee3732" title="Generates a random node." alt="" coords="268,443,451,484"/>
+<area shape="rect" id="node9" href="$classglobal__planner_1_1GlobalPlanner.html#a297e71216c9a9133b54b02379a9343d1" title="Transform from grid index(i) to grid map(x, y)" alt="" coords="509,443,727,484"/>
+</map>

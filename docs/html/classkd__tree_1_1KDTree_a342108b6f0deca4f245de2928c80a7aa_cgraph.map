@@ -1,0 +1,5 @@
+<map id="kd_tree::KDTree::~KDTree" name="kd_tree::KDTree::~KDTree">
+<area shape="rect" id="node1" title="Destroy the KDTree object." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$classkd__tree_1_1KDTree.html#aca9aac7d46f619cede55a6fbb83d0520" title="Clear k&#45;d tree." alt="" coords="244,5,409,32"/>
+<area shape="rect" id="node3" href="$classkd__tree_1_1KDTree.html#a827dfab4f994a63f58ceab9e1753143c" title="Clears k&#45;d tree recursively." alt="" coords="457,5,693,32"/>
+</map>

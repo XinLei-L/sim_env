@@ -1,0 +1,4 @@
+<map id="trajectory_generation::Bezier::run" name="trajectory_generation::Bezier::run">
+<area shape="rect" id="node1" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="216,13,323,39"/>
+</map>

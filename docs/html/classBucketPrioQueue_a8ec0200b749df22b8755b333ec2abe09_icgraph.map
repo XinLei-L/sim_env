@@ -1,0 +1,6 @@
+<map id="BucketPrioQueue::pop" name="BucketPrioQueue::pop">
+<area shape="rect" id="node1" title="return and pop the element with the lowest squared distance *‍/" alt="" coords="308,56,473,83"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#a152affee9cd562ae29f85768c6b6f2e3" title="prune the Voronoi diagram" alt="" coords="45,5,220,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a1597506b8c427486884c2b2ec3492cdd" title="update distance map and Voronoi diagram to reflect the changes" alt="" coords="41,56,224,83"/>
+<area shape="rect" id="node4" href="$classDynamicVoronoi.html#aae6e89805320dc088abdebcea14c6579" title=" " alt="" coords="5,107,260,149"/>
+</map>

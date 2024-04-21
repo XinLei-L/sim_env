@@ -1,0 +1,12 @@
+<map id="orca_planner::OrcaPlanner" name="orca_planner::OrcaPlanner">
+<area shape="rect" id="node1" title=" " alt="" coords="221,1745,452,2160"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,1231,143,1309"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html" title=" " alt="" coords="167,916,367,1624"/>
+<area shape="rect" id="node4" title=" " alt="" coords="238,556,297,633"/>
+<area shape="rect" id="node5" href="$classRVO_1_1RVOSimulator.html" title="Defines the simulation. The main class of the library that contains all simulation functionality." alt="" coords="441,857,701,1683"/>
+<area shape="rect" id="node6" href="$classRVO_1_1KdTree.html" title="Defines k&#45;D trees for agents and static obstacles in the simulation." alt="" coords="567,1804,794,2101"/>
+<area shape="rect" id="node7" href="$classRVO_1_1KdTree_1_1ObstacleTreeNode.html" title="Defines an obstacle k&#45;D tree node." alt="" coords="725,1209,953,1331"/>
+<area shape="rect" id="node8" href="$classRVO_1_1Obstacle.html" title="Defines static obstacles in the simulation." alt="" coords="737,527,851,663"/>
+<area shape="rect" id="node9" href="$classRVO_1_1Vector2.html" title="Defines a two&#45;dimensional vector." alt="" coords="509,5,633,317"/>
+<area shape="rect" id="node10" href="$classRVO_1_1Agent.html" title="Defines an agent in the simulation." alt="" coords="474,424,669,765"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="global_planner::DStar::getCost" name="global_planner::DStar::getCost">
+<area shape="rect" id="node1" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStar.html#a5122ab6d24edd91e803cbe334c8eb9cc" title="Check if there is collision between n1 and n2." alt="" coords="216,5,379,47"/>
+</map>

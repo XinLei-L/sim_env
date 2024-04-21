@@ -1,0 +1,4 @@
+<map id="global_planner::HybridAStar" name="global_planner::HybridAStar">
+<area shape="rect" id="node1" title="Class for objects that plan using the A* algorithm." alt="" coords="7,512,221,824"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,5,223,464"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="global_planner::VoronoiPlanner::searchPathWithVoronoi" name="global_planner::VoronoiPlanner::searchPathWithVoronoi">
+<area shape="rect" id="node1" title="search the shortest path from start to VD, or search the shortest path in VD" alt="" coords="279,5,504,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1VoronoiPlanner.html#aa491164863f3b012946f31823cd162a6" title=" " alt="" coords="5,5,231,47"/>
+</map>

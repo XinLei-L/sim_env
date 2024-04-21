@@ -1,0 +1,22 @@
+<map id="rpp_planner::RPPPlanner::computeVelocityCommands" name="rpp_planner::RPPPlanner::computeVelocityCommands">
+<area shape="rect" id="node1" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,374,220,415"/>
+<area shape="rect" id="node2" href="$classrpp__planner_1_1RPPPlanner.html#ad565834ce7e924984b72e652060cc7a0" title="Applying approach constraints to regularize the speed of robot approaching final goal." alt="" coords="540,119,741,160"/>
+<area shape="rect" id="node4" href="$classrpp__planner_1_1RPPPlanner.html#ac9fc75accd36d824afeb8d8f16fc670b" title="Applying curvature constraints to regularize the speed of robot turning." alt="" coords="268,47,472,88"/>
+<area shape="rect" id="node5" href="$classrpp__planner_1_1RPPPlanner.html#a9c4c72957f0740b56714aabe86f8c9c3" title="Applying obstacle constraints to regularize the speed of robot approaching obstacles." alt="" coords="271,112,469,154"/>
+<area shape="rect" id="node6" href="$classrpp__planner_1_1RPPPlanner.html#a015cee257bcf7a54d3aa804527176336" title="calculate the relative angle between robot&#39; yaw and relative lookahead vector" alt="" coords="279,178,461,219"/>
+<area shape="rect" id="node7" href="$classlocal__planner_1_1LocalPlanner.html#a2968f358c5649d44e6f0fb5b86cd5d8d" title="angular velocity regularization" alt="" coords="270,243,470,284"/>
+<area shape="rect" id="node8" href="$classlocal__planner_1_1LocalPlanner.html#a19285dda2cecf3469840d63a867e37b6" title="Calculate the look&#45;ahead distance with current speed dynamically." alt="" coords="270,308,470,350"/>
+<area shape="rect" id="node10" href="$classlocal__planner_1_1LocalPlanner.html#a7f44911144ca3d1dd5820c805e574e9a" title="find the point on the path that is exactly the lookahead distance away from the robot" alt="" coords="270,374,470,415"/>
+<area shape="rect" id="node12" href="$classlocal__planner_1_1LocalPlanner.html#ac7b46cc55bf19c071194666fa56bce50" title="linear velocity regularization" alt="" coords="270,439,470,480"/>
+<area shape="rect" id="node13" href="$classlocal__planner_1_1LocalPlanner.html#a92044166461c75601c1e1822128b5a52" title="Prune the path, removing the waypoints that the robot has already passed and distant waypoints." alt="" coords="270,504,470,546"/>
+<area shape="rect" id="node16" href="$classlocal__planner_1_1LocalPlanner.html#a0ab04fa2f2ab7785f2f2dde338d3bfe3" title="Regularize angle to [&#45;pi, pi]." alt="" coords="270,570,470,611"/>
+<area shape="rect" id="node18" href="$classlocal__planner_1_1LocalPlanner.html#aec93340b27a08e9042e172e7f9e65d25" title="Whether to reach the target pose through rotation operation." alt="" coords="541,628,741,670"/>
+<area shape="rect" id="node19" href="$classlocal__planner_1_1LocalPlanner.html#a7d4825bef7a47c5fad411bd3532bc82b" title="Whether to correct the tracking path with rotation operation." alt="" coords="270,687,470,728"/>
+<area shape="rect" id="node20" href="$classlocal__planner_1_1LocalPlanner.html#a995db23cdbdfa141e485054a21761549" title="Tranform from in_pose to out_pose with out frame using tf." alt="" coords="270,752,470,794"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="809,450,904,477"/>
+<area shape="rect" id="node9" href="$namespacehelper.html#a9c9a4cb40a943aa90715a81a7739c986" title="Clamps a value within a specified range." alt="" coords="585,316,696,342"/>
+<area shape="rect" id="node11" href="$namespacehelper.html#a5f5d8a6af58aba9152506f86919ff839" title="Formula for intersection of a line with a circle centered at the origin." alt="" coords="520,374,761,401"/>
+<area shape="rect" id="node14" href="$namespacehelper.html#ae94b70df291d8464ddf5c37d64f4bf40" title="Find the first element in iterator that is greater integrated distance than compared value." alt="" coords="530,476,751,502"/>
+<area shape="rect" id="node15" href="$namespacehelper.html#ad7625b199a37802bc66ee636945ea7ff" title="Find the first element in iterator with the minimum calculated value." alt="" coords="557,526,724,553"/>
+<area shape="rect" id="node17" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="587,577,694,604"/>
+</map>

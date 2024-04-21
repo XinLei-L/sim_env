@@ -1,0 +1,8 @@
+<map id="local_planner::LocalPlanner::shouldRotateToGoal" name="local_planner::LocalPlanner::shouldRotateToGoal">
+<area shape="rect" id="node1" title="Whether to reach the target pose through rotation operation." alt="" coords="268,136,468,177"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#ad900e94f0cf26f61af3d3114a8ab8c4a" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$classrpp__planner_1_1RPPPlanner.html#ad6d14b7e6db8c7cadd5ed72a9428ec0f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,71,220,112"/>
+<area shape="rect" id="node4" href="$classmpc__planner_1_1MPCPlanner.html#a03236df0d48b7b6e1f26572d1ac02d27" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,136,220,177"/>
+<area shape="rect" id="node5" href="$classpid__planner_1_1PIDPlanner.html#a4b0a4d5eb98b86855de05aed0c68aa8f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,201,220,243"/>
+<area shape="rect" id="node6" href="$classapf__planner_1_1APFPlanner.html#a697d369ed17d347523686588d36b0531" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,267,220,308"/>
+</map>

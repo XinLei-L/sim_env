@@ -1,0 +1,4 @@
+<map id="global_planner::DStarLite::getCost" name="global_planner::DStarLite::getCost">
+<area shape="rect" id="node1" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStarLite.html#a7d06b94ed04a2bdae715a42662299e23" title="Check if there is collision between n1 and n2." alt="" coords="240,5,427,47"/>
+</map>

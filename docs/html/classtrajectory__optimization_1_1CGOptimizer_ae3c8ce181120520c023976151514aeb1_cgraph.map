@@ -1,0 +1,4 @@
+<map id="trajectory_optimization::CGOptimizer::calCurvatureTerm" name="trajectory_optimization::CGOptimizer::calCurvatureTerm">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,241,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a9c9a4cb40a943aa90715a81a7739c986" title="Clamps a value within a specified range." alt="" coords="289,13,400,39"/>
+</map>

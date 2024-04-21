@@ -1,0 +1,4 @@
+<map id="global_planner::DStar::modify" name="global_planner::DStar::modify">
+<area shape="rect" id="node1" title="Modify the map when collision occur between x and y in path, and then do processState()" alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1DStar.html#a8dc565b63b17dc90c717ca532baa2ca3" title="Insert nodePtr into the open_list with h_new." alt="" coords="216,5,379,47"/>
+</map>

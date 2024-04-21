@@ -1,0 +1,7 @@
+<map id="RVO::normalize" name="RVO::normalize">
+<area shape="rect" id="node1" title=" " alt="" coords="559,71,681,98"/>
+<area shape="rect" id="node2" href="$classRVO_1_1RVOSimulator.html#af84ffac58c2b1d9b6ed44e02df3ea49e" title="Adds a new obstacle to the simulation." alt="" coords="311,5,468,47"/>
+<area shape="rect" id="node3" href="$classRVO_1_1Agent.html#a28b7f124d2f98d8882291525b0cca6cd" title="Computes the new velocity of this agent." alt="" coords="268,71,511,98"/>
+<area shape="rect" id="node4" href="$classorca__planner_1_1OrcaPlanner.html#a7daa1472ba5a72c013a7c972a4b9cb2b" title=" " alt="" coords="293,123,486,164"/>
+<area shape="rect" id="node5" href="$classorca__planner_1_1OrcaPlanner.html#a740fbdee26ce8c61931bb3d5c698f3db" title=" " alt="" coords="5,123,220,164"/>
+</map>

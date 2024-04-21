@@ -1,0 +1,4 @@
+<map id="pid_planner::PIDPlanner::_pidControl" name="pid_planner::PIDPlanner::_pidControl">
+<area shape="rect" id="node1" title="Execute PID control process (no model pid)" alt="" coords="268,5,445,47"/>
+<area shape="rect" id="node2" href="$classpid__planner_1_1PIDPlanner.html#a4b0a4d5eb98b86855de05aed0c68aa8f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,5,220,47"/>
+</map>

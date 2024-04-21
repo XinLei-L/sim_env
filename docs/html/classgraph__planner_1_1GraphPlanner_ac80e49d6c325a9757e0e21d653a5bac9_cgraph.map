@@ -1,0 +1,4 @@
+<map id="graph_planner::GraphPlanner::makePlanService" name="graph_planner::GraphPlanner::makePlanService">
+<area shape="rect" id="node1" title="Regeister planning service." alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node2" href="$classgraph__planner_1_1GraphPlanner.html#ad395882cd6fafe18ad3182f3fed5d060" title="Plan a path given start and goal in world map." alt="" coords="264,5,475,47"/>
+</map>

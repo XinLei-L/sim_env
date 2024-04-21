@@ -1,0 +1,6 @@
+<map id="global_planner::GlobalPlanner::grid2Map" name="global_planner::GlobalPlanner::grid2Map">
+<area shape="rect" id="node1" title="Transform from costmap(x, y) to grid map(x, y)" alt="" coords="845,5,1063,47"/>
+<area shape="rect" id="node2" href="$classsample__planner_1_1SamplePlanner.html#af08b5227bd066006b03d534069de7f74" title="Publishes a Marker msg with two points in Rviz." alt="" coords="565,5,797,47"/>
+<area shape="rect" id="node3" href="$classsample__planner_1_1SamplePlanner.html#a692e6e6727f3e08858994695d7ed9f2a" title="publish expand zone" alt="" coords="285,5,517,47"/>
+<area shape="rect" id="node4" href="$classsample__planner_1_1SamplePlanner.html#a0dd4c1251f7a0a90721fece993b2ff81" title=" " alt="" coords="5,5,237,47"/>
+</map>

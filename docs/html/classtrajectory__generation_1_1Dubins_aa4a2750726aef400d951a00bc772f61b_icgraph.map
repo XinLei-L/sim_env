@@ -1,0 +1,5 @@
+<map id="trajectory_generation::Dubins::run" name="trajectory_generation::Dubins::run">
+<area shape="rect" id="node1" title="Running trajectory generation." alt="" coords="509,5,672,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1HybridAStar.html#a48c867b9689c097dac88807e1d691a8c" title="Try using Dubins curves to connect the start and goal." alt="" coords="257,5,461,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1HybridAStar.html#af2b35575b0ff2bf8018ddfa504d742d2" title=" " alt="" coords="5,5,209,47"/>
+</map>

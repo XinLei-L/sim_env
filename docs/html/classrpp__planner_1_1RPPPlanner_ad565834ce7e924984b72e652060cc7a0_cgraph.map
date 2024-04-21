@@ -1,0 +1,4 @@
+<map id="rpp_planner::RPPPlanner::_applyApproachConstraint" name="rpp_planner::RPPPlanner::_applyApproachConstraint">
+<area shape="rect" id="node1" title="Applying approach constraints to regularize the speed of robot approaching final goal." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="255,13,349,39"/>
+</map>

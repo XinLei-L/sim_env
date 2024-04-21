@@ -1,0 +1,4 @@
+<map id="global_planner::VoronoiPlanner" name="global_planner::VoronoiPlanner">
+<area shape="rect" id="node1" title="Class for objects that plan using the Voronoi&#45;based planning algorithm." alt="" coords="5,512,231,663"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="9,5,227,464"/>
+</map>

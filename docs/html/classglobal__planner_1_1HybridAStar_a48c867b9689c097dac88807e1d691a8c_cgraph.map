@@ -1,0 +1,7 @@
+<map id="global_planner::HybridAStar::dubinsShot" name="global_planner::HybridAStar::dubinsShot">
+<area shape="rect" id="node1" title="Try using Dubins curves to connect the start and goal." alt="" coords="5,71,209,112"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="257,5,475,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Dubins.html#aa4a2750726aef400d951a00bc772f61b" title="Running trajectory generation." alt="" coords="285,71,447,112"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1GlobalPlanner.html#a11f74a52a3ad1e0a211c3e6e01f9c4b3" title="Tranform from world map(x, y) to costmap(x, y)" alt="" coords="257,136,475,177"/>
+<area shape="rect" id="node4" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="523,78,629,105"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="trajectory_generation::BSpline::run" name="trajectory_generation::BSpline::run">
+<area shape="rect" id="node1" title="Running trajectory generation." alt="" coords="5,136,168,177"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1BSpline.html#a6c3eebdc09b3ac84fb43977b210ed69d" title="Running trajectory generation." alt="" coords="216,136,379,177"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1BSpline.html#ad666c02e5230d85781470888df554f6b" title="Given a set of N data points, D0, D1, ..., Dn, a degree k, and a number H, where N &gt; H &gt; k &gt;= 1,..." alt="" coords="430,5,613,47"/>
+<area shape="rect" id="node5" href="$classtrajectory__generation_1_1BSpline.html#a7b4517bc20c4c9ec114f7c4a082b3d21" title="Generate the path." alt="" coords="440,71,603,112"/>
+<area shape="rect" id="node6" href="$classtrajectory__generation_1_1BSpline.html#ac5d41dd8db46f99c6fabd6b1502d2ba9" title="Given a set of N data points, D0, D1, ..., Dn and a degree k, find a B&#45;spline curve of degree k defin..." alt="" coords="436,136,607,177"/>
+<area shape="rect" id="node7" href="$classtrajectory__generation_1_1BSpline.html#a8114301bfc437914e64fed706d2ab010" title="Generate knot vector." alt="" coords="427,201,615,243"/>
+<area shape="rect" id="node8" href="$classtrajectory__generation_1_1BSpline.html#a7dd9706d8858a3227d65379aa0a1d3c4" title="Calculate parameters using the uniform spaced or chrod length or centripetal method." alt="" coords="427,267,616,308"/>
+<area shape="rect" id="node4" href="$classtrajectory__generation_1_1BSpline.html#aa0665ddb47a09c738957564deff59ed0" title="Calculate base function using Cox&#45;deBoor function." alt="" coords="664,71,837,112"/>
+<area shape="rect" id="node9" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="703,274,798,301"/>
+</map>

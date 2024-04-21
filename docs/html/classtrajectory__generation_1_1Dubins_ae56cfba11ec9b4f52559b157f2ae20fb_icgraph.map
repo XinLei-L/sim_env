@@ -1,0 +1,5 @@
+<map id="trajectory_generation::Dubins::interpolate" name="trajectory_generation::Dubins::interpolate">
+<area shape="rect" id="node1" title="Planning path interpolation." alt="" coords="427,5,589,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Dubins.html#a8703882a31ff091d2e6dae9c4ffa309d" title="Generate the path." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Dubins.html#ac95f9a832077c72d285e5146133ab15f" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

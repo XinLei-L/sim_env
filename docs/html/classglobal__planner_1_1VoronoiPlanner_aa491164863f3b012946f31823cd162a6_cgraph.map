@@ -1,0 +1,10 @@
+<map id="global_planner::VoronoiPlanner::plan" name="global_planner::VoronoiPlanner::plan">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,231,90"/>
+<area shape="rect" id="node2" href="$classDynamicVoronoi.html#aea5903f030bc4ab69c2399913665688b" title="returns the obstacle distance at the specified location" alt="" coords="283,5,499,32"/>
+<area shape="rect" id="node3" href="$classDynamicVoronoi.html#a011a0a727789aa7e88c0765d278ace05" title="returns whether the specified cell is part of the (pruned) Voronoi graph" alt="" coords="292,56,491,83"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1VoronoiPlanner.html#a8f4e22e0093b38429b8ebb2c671e8651" title="search the shortest path from start to VD, or search the shortest path in VD" alt="" coords="279,107,504,149"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1GlobalPlanner.html#a29e3e589f3f3c74c6f6b29548ff1d31f" title="Convert closed list to path." alt="" coords="552,49,769,90"/>
+<area shape="rect" id="node6" href="$classNode.html#abfad161e1ca99c634a3a63a999500d3f" title="Get permissible motion." alt="" coords="595,115,726,141"/>
+<area shape="rect" id="node8" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="552,166,769,207"/>
+<area shape="rect" id="node7" href="$classNode.html#a36f435f304ee0979f38892ba34b39381" title="Constructor for Node class." alt="" coords="817,115,916,141"/>
+</map>

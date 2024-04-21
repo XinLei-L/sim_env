@@ -1,0 +1,5 @@
+<map id="trajectory_generation::CubicSpline::spline" name="trajectory_generation::CubicSpline::spline">
+<area shape="rect" id="node1" title="Calculate the spline curve value in a certain direction." alt="" coords="427,5,589,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1CubicSpline.html#a4500ed641381e473b0a1497c2fd1cce5" title="Running trajectory generation." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1CubicSpline.html#abe981b71ede7ff8cc6433a88ed1f6040" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

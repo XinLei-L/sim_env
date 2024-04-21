@@ -1,0 +1,5 @@
+<map id="trajectory_generation::PolyTrajectory::valid" name="trajectory_generation::PolyTrajectory::valid">
+<area shape="rect" id="node1" title="Determine whether the generated trajectory is valid." alt="" coords="445,5,608,47"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1Polynomial.html#a4d5abd2e121ce5dbee101dfed1f664e8" title="Generate a valid trajectory from start state to goal state." alt="" coords="216,5,397,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1Polynomial.html#a05d5f4ece731542e16be21f830220f63" title="Running trajectory generation." alt="" coords="5,5,168,47"/>
+</map>

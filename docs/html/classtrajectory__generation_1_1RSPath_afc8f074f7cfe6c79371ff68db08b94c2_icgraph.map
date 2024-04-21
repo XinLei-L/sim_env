@@ -1,0 +1,5 @@
+<map id="trajectory_generation::RSPath::valid" name="trajectory_generation::RSPath::valid">
+<area shape="rect" id="node1" title="Determine whether the generated trajectory is valid." alt="" coords="216,39,379,80"/>
+<area shape="rect" id="node2" href="$classtrajectory__generation_1_1RSPath.html#aec9702ad84524b4bda8aaa4be031422e" title="Obtain segment i with its motion pattern." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node3" href="$classtrajectory__generation_1_1RSPath.html#a87c8744880a72df16d483fda7ace6d86" title="Calculate the number of segments for generating trajectories." alt="" coords="5,71,168,112"/>
+</map>

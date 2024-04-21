@@ -1,0 +1,4 @@
+<map id="global_planner::JumpPointSearch::detectForceNeighbor" name="global_planner::JumpPointSearch::detectForceNeighbor">
+<area shape="rect" id="node1" title="Detect whether current node has forced neighbor or not." alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="263,5,480,47"/>
+</map>

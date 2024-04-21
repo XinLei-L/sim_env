@@ -1,0 +1,52 @@
+<map id="helper::dist" name="helper::dist">
+<area shape="rect" id="node1" title="Calculate distance between the 2 nodes." alt="" coords="803,1059,897,1086"/>
+<area shape="rect" id="node2" href="$classrpp__planner_1_1RPPPlanner.html#ad565834ce7e924984b72e652060cc7a0" title="Applying approach constraints to regularize the speed of robot approaching final goal." alt="" coords="276,10,477,52"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1RRT.html#a43abad0c7d7552fcd4135cf920897b18" title="Check if goal is reachable from current node." alt="" coords="301,258,453,300"/>
+<area shape="rect" id="node7" href="$classkd__tree_1_1KDTree.html#ab6601cc5cc8fd8a94ee2a51e76e998bf" title="Calculate the distance between kd node p and q." alt="" coords="547,702,741,728"/>
+<area shape="rect" id="node8" href="$classkd__tree_1_1KDTree.html#a1fd6052b8c9c5b20bc0ca915f44c8213" title="Searches k&#45;nearest neighbors recursively." alt="" coords="273,665,481,706"/>
+<area shape="rect" id="node10" href="$classkd__tree_1_1KDTree.html#afe697838229101faa90a96e9c5ed8886" title="Searches the nearest neighbor recursively." alt="" coords="277,740,477,781"/>
+<area shape="rect" id="node12" href="$classglobal__planner_1_1RRTStar.html#a4a6af7f69799f71dd5a921c65e7384b6" title="Regular the new node by the nearest node in the sample list." alt="" coords="287,324,466,365"/>
+<area shape="rect" id="node13" href="$classglobal__planner_1_1InformedRRT.html#a4986b3f83e89e1e89141f74c956ad5b6" title="RRT implementation." alt="" coords="20,389,205,430"/>
+<area shape="rect" id="node14" href="$classglobal__planner_1_1RRT.html#a2a96f1ca4463b7c1e9e2a08f099aa399" title="Regular the sample node by the nearest node in the sample list." alt="" coords="301,492,453,533"/>
+<area shape="rect" id="node15" href="$classglobal__planner_1_1RRTConnect.html#a72a44b718cff9519f1319999aff91a07" title="RRT implementation." alt="" coords="11,492,215,533"/>
+<area shape="rect" id="node16" href="$classglobal__planner_1_1RRT.html#a11476392ffbfa48a1bb151a660f1404f" title="Check if there is any obstacle between the 2 nodes." alt="" coords="559,432,729,473"/>
+<area shape="rect" id="node17" href="$classkd__tree_1_1KDTree.html#ae4cea57973b73091beb3b3d52afb5078" title="Searches neighbors within radius." alt="" coords="554,804,734,845"/>
+<area shape="rect" id="node19" href="$classglobal__planner_1_1LazyThetaStar.html#a6474c7c4f4d249f3ea8eca23e7618a0c" title="check if the parent of vertex need to be updated. if so, update it" alt="" coords="547,921,741,962"/>
+<area shape="rect" id="node20" href="$classglobal__planner_1_1LazyThetaStar.html#acd2b82933cdb15fd12e428c40ae62f01" title="Lazy Theta* implementation." alt="" coords="280,921,473,962"/>
+<area shape="rect" id="node21" href="$classglobal__planner_1_1ThetaStar.html#a94858112ddcc6c92a1ea02b6db79520e" title="update the g value of child node" alt="" coords="549,1052,739,1093"/>
+<area shape="rect" id="node22" href="$classglobal__planner_1_1ThetaStar.html#a42bfa4ce66ec7125b52cb6a076140b46" title="Theta* implementation." alt="" coords="282,1077,471,1118"/>
+<area shape="rect" id="node23" href="$classglobal__planner_1_1LazyThetaStar.html#acbf8f41964fcdfcc4dda72a25f7385dc" title="update the g value of child node" alt="" coords="547,986,741,1028"/>
+<area shape="rect" id="node24" href="$namespacehelper.html#ae94b70df291d8464ddf5c37d64f4bf40" title="Find the first element in iterator that is greater integrated distance than compared value." alt="" coords="533,84,755,111"/>
+<area shape="rect" id="node25" href="$classlocal__planner_1_1LocalPlanner.html#a92044166461c75601c1e1822128b5a52" title="Prune the path, removing the waypoints that the robot has already passed and distant waypoints." alt="" coords="277,76,477,117"/>
+<area shape="rect" id="node26" href="$classtrajectory__generation_1_1Bezier.html#a3c23c43818b80f513e858a83e5580537" title="Generate the path." alt="" coords="295,1194,458,1236"/>
+<area shape="rect" id="node28" href="$classtrajectory__generation_1_1Dubins.html#a8703882a31ff091d2e6dae9c4ffa309d" title="Generate the path." alt="" coords="563,1286,725,1328"/>
+<area shape="rect" id="node30" href="$classtrajectory__generation_1_1Bezier.html#a037a51f135e5833ec4b06bdc8e5121f7" title="Calculate control points heuristically." alt="" coords="551,1169,737,1210"/>
+<area shape="rect" id="node31" href="$classapf__planner_1_1APFPlanner.html#af5cd67ac6d08ff1cdd5e8017dd6f76f9" title="Get the repulsive force of APF." alt="" coords="553,258,735,300"/>
+<area shape="rect" id="node33" href="$classglobal__planner_1_1ACO.html#ac25e5d7f6192a98d52a608e199cf5d76" title="Generate n ants with pointNum_ positions each within the map range." alt="" coords="567,1352,721,1393"/>
+<area shape="rect" id="node35" href="$classglobal__planner_1_1GA.html#ae4af84e77e71343f0cd4178edc89cdc6" title="Generate n genets with pointNum_ positions each within the map range." alt="" coords="571,1417,717,1458"/>
+<area shape="rect" id="node37" href="$classglobal__planner_1_1PSO.html#a15f6b9aa375f012321d949455d6f3416" title="Generate n particles with pointNum_ positions each within the map range." alt="" coords="568,1482,720,1524"/>
+<area shape="rect" id="node39" href="$classtrajectory__generation_1_1Curve.html#a349cdc11c4622f4f3736cff48e0852cf" title="Calculate length of given path." alt="" coords="563,1548,725,1589"/>
+<area shape="rect" id="node40" href="$classtrajectory__generation_1_1Dubins.html#a5e8703f7b1ad749e0f4b00303e24c6f1" title="Left&#45;Right&#45;Left generation mode." alt="" coords="563,1613,725,1654"/>
+<area shape="rect" id="node41" href="$classtrajectory__generation_1_1Dubins.html#aa2d0b21731a4db412d0b096c457344a1" title="Left&#45;Straight&#45;Left generation mode." alt="" coords="563,1678,725,1720"/>
+<area shape="rect" id="node42" href="$classtrajectory__generation_1_1Dubins.html#a1b419c91a0b81dac35124c2711cbcbe4" title="Left&#45;Straight&#45;Right generation mode." alt="" coords="563,1744,725,1785"/>
+<area shape="rect" id="node43" href="$classtrajectory__generation_1_1BSpline.html#a7dd9706d8858a3227d65379aa0a1d3c4" title="Calculate parameters using the uniform spaced or chrod length or centripetal method." alt="" coords="549,1809,739,1850"/>
+<area shape="rect" id="node44" href="$classglobal__planner_1_1AStar.html#a1b61938b9cecd619b2baf19137f3710f" title="A* implementation." alt="" coords="563,1874,725,1916"/>
+<area shape="rect" id="node45" href="$classtrajectory__generation_1_1Dubins.html#a549b2291d31db08e13ca690dff78f786" title="Right&#45;Left&#45;Right generation mode." alt="" coords="563,1940,725,1981"/>
+<area shape="rect" id="node46" href="$classtrajectory__generation_1_1Dubins.html#a4f639c36dffca46f591d2bf99f0bc12e" title="Right&#45;Straight&#45;Left generation mode." alt="" coords="563,2005,725,2046"/>
+<area shape="rect" id="node47" href="$classtrajectory__generation_1_1Dubins.html#acc1a5dd880aa5d293213f94e56212871" title="Right&#45;Straight&#45;Right generation mode." alt="" coords="563,2070,725,2112"/>
+<area shape="rect" id="node48" href="$classtrajectory__generation_1_1CubicSpline.html#a4500ed641381e473b0a1497c2fd1cce5" title="Running trajectory generation." alt="" coords="563,2136,725,2177"/>
+<area shape="rect" id="node49" href="$classlocal__planner_1_1LocalPlanner.html#aec93340b27a08e9042e172e7f9e65d25" title="Whether to reach the target pose through rotation operation." alt="" coords="544,193,744,234"/>
+<area shape="rect" id="node50" href="$classglobal__planner_1_1PSO.html#af521c71dab3fc7078d5a3eb4ccadbd6c" title="A function to update the particle velocity." alt="" coords="555,2201,733,2242"/>
+<area shape="rect" id="node3" href="$classrpp__planner_1_1RPPPlanner.html#ad6d14b7e6db8c7cadd5ed72a9428ec0f" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="5,76,220,117"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1RRTStar.html#a8b9829fc54384c347278be8afa713464" title="RRT implementation." alt="" coords="23,258,202,300"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1RRT.html#abd81426595502487dbad4f5907ae394d" title="RRT implementation." alt="" coords="37,324,189,365"/>
+<area shape="rect" id="node9" href="$classkd__tree_1_1KDTree.html#ab49fb71efb86fd4fdbc6a266a8fa0d8a" title="Searches k&#45;nearest neighbors." alt="" coords="12,672,213,699"/>
+<area shape="rect" id="node11" href="$classkd__tree_1_1KDTree.html#a96760d2da8d7bd4cbc25ef9d4c53f710" title="Searches the nearest neighbor." alt="" coords="16,747,209,774"/>
+<area shape="rect" id="node18" href="$classkd__tree_1_1KDTree.html#a09236957442d529e263fcfb9af4a57e2" title="Searches neighbors within radius." alt="" coords="268,811,485,838"/>
+<area shape="rect" id="node27" href="$classtrajectory__generation_1_1Bezier.html#aae9c65a56b3ab4ac7fb8d3d5a911e82b" title="Running trajectory generation." alt="" coords="31,1194,194,1236"/>
+<area shape="rect" id="node29" href="$classtrajectory__generation_1_1Dubins.html#ac95f9a832077c72d285e5146133ab15f" title="Running trajectory generation." alt="" coords="295,1286,458,1328"/>
+<area shape="rect" id="node32" href="$classapf__planner_1_1APFPlanner.html#a697d369ed17d347523686588d36b0531" title="Given the current position, orientation, and velocity of the robot, compute the velocity commands." alt="" coords="269,193,484,234"/>
+<area shape="rect" id="node34" href="$classglobal__planner_1_1ACO.html#af83dfb3448726b6b2f08e34d60f51046" title=" " alt="" coords="299,1352,454,1393"/>
+<area shape="rect" id="node36" href="$classglobal__planner_1_1GA.html#a8749abdf8d2dff58c0338b2c47a99d09" title="GA implementation." alt="" coords="304,1417,449,1458"/>
+<area shape="rect" id="node38" href="$classglobal__planner_1_1PSO.html#a3b8dd1af1d84ed7672f6bab5576136e8" title="PSO implementation." alt="" coords="301,1482,453,1524"/>
+</map>

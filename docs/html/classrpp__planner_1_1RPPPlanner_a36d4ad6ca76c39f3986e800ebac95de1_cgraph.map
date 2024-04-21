@@ -1,0 +1,7 @@
+<map id="rpp_planner::RPPPlanner::RPPPlanner" name="rpp_planner::RPPPlanner::RPPPlanner">
+<area shape="rect" id="node1" title="Construct a new RPP planner object." alt="" coords="5,71,187,112"/>
+<area shape="rect" id="node2" href="$classrpp__planner_1_1RPPPlanner.html#adf1df331f69d256f6727e16fd0705c51" title="Initialization of the local planner." alt="" coords="235,71,416,112"/>
+<area shape="rect" id="node3" href="$classlocal__planner_1_1LocalPlanner.html#a1e0bc67bad2c05078246d92700b00c96" title="Set or reset costmap origin." alt="" coords="464,5,664,47"/>
+<area shape="rect" id="node4" href="$classlocal__planner_1_1LocalPlanner.html#aca6efcb27353277ccf9bcb8cd4ad71d5" title="Set or reset costmap resolution." alt="" coords="464,71,664,112"/>
+<area shape="rect" id="node5" href="$classlocal__planner_1_1LocalPlanner.html#aeb6474007b7c7fe803e3616d89c6d115" title="Set or reset costmap size." alt="" coords="464,136,664,177"/>
+</map>

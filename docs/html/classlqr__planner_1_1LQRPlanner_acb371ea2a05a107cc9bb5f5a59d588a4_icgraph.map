@@ -1,0 +1,4 @@
+<map id="lqr_planner::LQRPlanner::initialize" name="lqr_planner::LQRPlanner::initialize">
+<area shape="rect" id="node1" title="Initialization of the local planner." alt="" coords="232,5,411,47"/>
+<area shape="rect" id="node2" href="$classlqr__planner_1_1LQRPlanner.html#aba15d8df88280c237edbc8fa69416337" title="Construct a new LQR planner object." alt="" coords="5,5,184,47"/>
+</map>

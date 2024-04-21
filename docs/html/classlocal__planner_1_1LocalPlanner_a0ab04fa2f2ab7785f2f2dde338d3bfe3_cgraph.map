@@ -1,0 +1,4 @@
+<map id="local_planner::LocalPlanner::regularizeAngle" name="local_planner::LocalPlanner::regularizeAngle">
+<area shape="rect" id="node1" title="Regularize angle to [&#45;pi, pi]." alt="" coords="5,5,205,47"/>
+<area shape="rect" id="node2" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="253,13,360,39"/>
+</map>

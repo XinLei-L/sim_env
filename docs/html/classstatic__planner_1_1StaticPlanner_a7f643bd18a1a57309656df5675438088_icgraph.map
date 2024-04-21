@@ -1,0 +1,4 @@
+<map id="static_planner::StaticPlanner::initialize" name="static_planner::StaticPlanner::initialize">
+<area shape="rect" id="node1" title="Initialization of the local planner." alt="" coords="261,5,469,47"/>
+<area shape="rect" id="node2" href="$classstatic__planner_1_1StaticPlanner.html#a8587cf051908225f6b6d736fe179d6a0" title="Construct a new StaticPlanner object." alt="" coords="5,5,213,47"/>
+</map>

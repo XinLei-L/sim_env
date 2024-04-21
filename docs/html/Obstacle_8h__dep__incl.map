@@ -1,0 +1,7 @@
+<map id="src/core/local_planner/orca_planner/include/RVO/Obstacle.h" name="src/core/local_planner/orca_planner/include/RVO/Obstacle.h">
+<area shape="rect" id="node1" title="Declares the Obstacle class." alt="" coords="287,5,451,61"/>
+<area shape="rect" id="node2" href="$Agent_8cc.html" title="Defines the Agent class." alt="" coords="5,109,169,165"/>
+<area shape="rect" id="node3" href="$KdTree_8cc.html" title="Defines the KdTree class." alt="" coords="193,109,357,165"/>
+<area shape="rect" id="node4" href="$Obstacle_8cc.html" title="Defines the Obstacle class." alt="" coords="381,109,545,165"/>
+<area shape="rect" id="node5" href="$RVOSimulator_8cc.html" title="Defines the RVOSimulator class." alt="" coords="569,109,736,165"/>
+</map>

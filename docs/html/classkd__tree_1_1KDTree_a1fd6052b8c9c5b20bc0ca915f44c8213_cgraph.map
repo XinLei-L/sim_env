@@ -1,0 +1,8 @@
+<map id="kd_tree::KDTree::_knnSearchRecursive" name="kd_tree::KDTree::_knnSearchRecursive">
+<area shape="rect" id="node1" title="Searches k&#45;nearest neighbors recursively." alt="" coords="5,107,213,149"/>
+<area shape="rect" id="node2" href="$classkd__tree_1_1KDTree.html#ab6601cc5cc8fd8a94ee2a51e76e998bf" title="Calculate the distance between kd node p and q." alt="" coords="261,5,456,32"/>
+<area shape="rect" id="node3" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="504,31,599,57"/>
+<area shape="rect" id="node4" href="$classkd__tree_1_1KDTree_1_1BoundedPriorityQueue.html#a5cc0b0fe10b47fc3c4ff2bd2b13535f8" title="Get back value." alt="" coords="263,107,454,149"/>
+<area shape="rect" id="node5" href="$classkd__tree_1_1KDTree_1_1BoundedPriorityQueue.html#a7ccb154f6bed0fc5c3cb13601b9670e2" title="Push value." alt="" coords="263,173,454,214"/>
+<area shape="rect" id="node6" href="$classkd__tree_1_1KDTree_1_1BoundedPriorityQueue.html#ac5d359d1c451944e34ff6a0f3cda6a72" title="Get size of the queue." alt="" coords="263,238,454,279"/>
+</map>

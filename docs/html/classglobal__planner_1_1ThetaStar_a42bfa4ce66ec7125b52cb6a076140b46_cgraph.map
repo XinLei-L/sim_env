@@ -1,0 +1,12 @@
+<map id="global_planner::ThetaStar::plan" name="global_planner::ThetaStar::plan">
+<area shape="rect" id="node1" title="Theta* implementation." alt="" coords="5,155,195,196"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#a29e3e589f3f3c74c6f6b29548ff1d31f" title="Convert closed list to path." alt="" coords="243,5,460,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1ThetaStar.html#a94858112ddcc6c92a1ea02b6db79520e" title="update the g value of child node" alt="" coords="257,71,446,112"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="745,155,963,196"/>
+<area shape="rect" id="node7" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="555,137,650,163"/>
+<area shape="rect" id="node8" href="$classNode.html#abfad161e1ca99c634a3a63a999500d3f" title="Get permissible motion." alt="" coords="286,238,417,265"/>
+<area shape="rect" id="node10" href="$classglobal__planner_1_1GlobalPlanner.html#a297e71216c9a9133b54b02379a9343d1" title="Transform from grid index(i) to grid map(x, y)" alt="" coords="243,289,460,331"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1ThetaStar.html#a4afcd6470ea4d69a057ca0934abc73ed" title="Bresenham algorithm to check if there is any obstacle between parent and child." alt="" coords="508,71,697,112"/>
+<area shape="rect" id="node5" href="$namespaceRVO.html#a7dfc210ac834d1de9bfde0b42d91e8b8" title=" " alt="" coords="813,78,895,105"/>
+<area shape="rect" id="node9" href="$classNode.html#a36f435f304ee0979f38892ba34b39381" title="Constructor for Node class." alt="" coords="553,238,652,265"/>
+</map>

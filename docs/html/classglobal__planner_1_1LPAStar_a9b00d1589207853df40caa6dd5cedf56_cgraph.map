@@ -1,0 +1,8 @@
+<map id="global_planner::LPAStar::updateVertex" name="global_planner::LPAStar::updateVertex">
+<area shape="rect" id="node1" title="Update vertex u." alt="" coords="5,71,181,112"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1LPAStar.html#a8b36c6ebb447c2dd33e6ecba8a514888" title="Calculate the key of s." alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1LPAStar.html#ac33417f1f2ebc007535da674ecd91452" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="229,71,405,112"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1LPAStar.html#a4b5cf1185571a00cd72819ccad8104b5" title="Get neighbour LNodePtrs of nodePtr." alt="" coords="229,136,405,177"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1LPAStar.html#afdd6150f25970575de56dd3a01fb5c23" title="Get heuristics between n1 and n2." alt="" coords="453,5,629,47"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1LPAStar.html#a0a364378931ad8045d0363be106686ba" title="Check if there is collision between n1 and n2." alt="" coords="453,103,629,144"/>
+</map>

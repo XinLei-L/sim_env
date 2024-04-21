@@ -1,0 +1,4 @@
+<map id="lqr_planner::LQRPlanner::setPlan" name="lqr_planner::LQRPlanner::setPlan">
+<area shape="rect" id="node1" title="Set the plan that the controller is following." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$classlocal__planner_1_1LocalPlanner.html#acb4183d8f67146b7a92fa1359d8a690b" title="Get the Euler Angles from PoseStamped." alt="" coords="232,5,432,47"/>
+</map>

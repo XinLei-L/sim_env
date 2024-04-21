@@ -1,0 +1,9 @@
+<map id="global_planner::LPAStar::isCollision" name="global_planner::LPAStar::isCollision">
+<area shape="rect" id="node1" title="Check if there is collision between n1 and n2." alt="" coords="901,39,1077,80"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1LPAStar.html#ac33417f1f2ebc007535da674ecd91452" title="Get the cost between n1 and n2, return INF if collision." alt="" coords="677,5,853,47"/>
+<area shape="rect" id="node6" href="$classglobal__planner_1_1LPAStar.html#a4b5cf1185571a00cd72819ccad8104b5" title="Get neighbour LNodePtrs of nodePtr." alt="" coords="677,71,853,112"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1LPAStar.html#a9b00d1589207853df40caa6dd5cedf56" title="Update vertex u." alt="" coords="453,5,629,47"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1LPAStar.html#a08c451b0153c96756e7fa11f8696ee49" title="Main process of LPA*." alt="" coords="229,56,405,97"/>
+<area shape="rect" id="node5" href="$classglobal__planner_1_1LPAStar.html#a0fed8d7653127c77757ca752d4d0429d" title="LPA* implementation." alt="" coords="5,85,181,127"/>
+<area shape="rect" id="node7" href="$classglobal__planner_1_1LPAStar.html#a40e68dd7b0d21cf6e5655ceaeb94089d" title="Extract path for map." alt="" coords="229,173,405,215"/>
+</map>

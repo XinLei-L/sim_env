@@ -1,0 +1,4 @@
+<map id="graph_planner::GraphPlanner::publishPlan" name="graph_planner::GraphPlanner::publishPlan">
+<area shape="rect" id="node1" title="Publish planning path." alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node2" href="$classgraph__planner_1_1GraphPlanner.html#ac807977281c97c9e7e955e84addb7dfd" title="Plan a path given start and goal in world map." alt="" coords="5,5,216,47"/>
+</map>

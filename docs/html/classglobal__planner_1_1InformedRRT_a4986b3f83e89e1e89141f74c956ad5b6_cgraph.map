@@ -1,0 +1,13 @@
+<map id="global_planner::InformedRRT::plan" name="global_planner::InformedRRT::plan">
+<area shape="rect" id="node1" title="RRT implementation." alt="" coords="5,195,191,236"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1GlobalPlanner.html#a29e3e589f3f3c74c6f6b29548ff1d31f" title="Convert closed list to path." alt="" coords="239,5,456,47"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1RRTStar.html#a4a6af7f69799f71dd5a921c65e7384b6" title="Regular the new node by the nearest node in the sample list." alt="" coords="258,165,437,207"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1RRT.html#a11476392ffbfa48a1bb151a660f1404f" title="Check if there is any obstacle between the 2 nodes." alt="" coords="511,224,682,265"/>
+<area shape="rect" id="node6" href="$namespacehelper.html#a3a51fee578243db715bdf299b1cf7b0f" title="Calculate distance between the 2 nodes." alt="" coords="799,122,893,149"/>
+<area shape="rect" id="node7" href="$classglobal__planner_1_1GlobalPlanner.html#ac6047d151c73d4ffbdce70a785d9167c" title="Transform from grid map(x, y) to grid index(i)" alt="" coords="737,312,955,353"/>
+<area shape="rect" id="node8" href="$classglobal__planner_1_1InformedRRT.html#a679f5cbc1ed9527f2368d120ac0b2013" title="Generates a random node." alt="" coords="243,459,451,500"/>
+<area shape="rect" id="node5" href="$namespacehelper.html#ac43102d60b6dbf2c82fa97669dd2a3c0" title="Calculate the angle of x&#45;axis between the 2 nodes." alt="" coords="793,231,899,258"/>
+<area shape="rect" id="node9" href="$classglobal__planner_1_1RRT.html#ab414d9ced4e2c1ee43c633b79bee3732" title="Generates a random node." alt="" coords="505,459,688,500"/>
+<area shape="rect" id="node11" href="$classglobal__planner_1_1InformedRRT.html#ab8566513c9d67b8602890763bcfa9ffe" title="Sample in ellipse." alt="" coords="504,341,689,383"/>
+<area shape="rect" id="node10" href="$classglobal__planner_1_1GlobalPlanner.html#a297e71216c9a9133b54b02379a9343d1" title="Transform from grid index(i) to grid map(x, y)" alt="" coords="737,459,955,500"/>
+</map>

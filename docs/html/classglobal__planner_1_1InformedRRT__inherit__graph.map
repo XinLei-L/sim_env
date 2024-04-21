@@ -1,0 +1,6 @@
+<map id="global_planner::InformedRRT" name="global_planner::InformedRRT">
+<area shape="rect" id="node1" title="Class for objects that plan using the RRT* algorithm." alt="" coords="9,939,219,1075"/>
+<area shape="rect" id="node2" href="$classglobal__planner_1_1RRTStar.html" title="Class for objects that plan using the RRT* algorithm." alt="" coords="25,784,203,891"/>
+<area shape="rect" id="node3" href="$classglobal__planner_1_1RRT.html" title="Class for objects that plan using the RRT algorithm." alt="" coords="14,512,214,736"/>
+<area shape="rect" id="node4" href="$classglobal__planner_1_1GlobalPlanner.html" title="Abstract class that is inherited by concerete implementaions of global planner classes...." alt="" coords="5,5,223,464"/>
+</map>
